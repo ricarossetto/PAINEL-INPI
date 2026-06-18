@@ -19,7 +19,7 @@ permissions:
 
 concurrency:
   group: inpi-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   scan-notify-deploy:
@@ -38,9 +38,12 @@ jobs:
           python-version: "3.12"
 
       - name: Varredura da RPI
+        id: scan
+        continue-on-error: true
         run: python scripts/scan_inpi.py --limit 10 --pause 4 --download-retries 8
 
       - name: Enviar notificacoes
+        if: steps.scan.outcome == 'success'
         run: python scripts/send_notifications.py
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -52,9 +55,11 @@ jobs:
           NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
 
       - name: Salvar dados atualizados
+        if: steps.scan.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
           git add public/data/*.json
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza dados da RPI"
