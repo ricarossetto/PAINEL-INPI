@@ -29,6 +29,29 @@
       ]
     },
     {
+      "id": "adv-nicolas-fernando-barbosa",
+      "type": "advogado",
+      "label": "Nícolas Fernando Barbosa",
+      "oab": "OAB/RS 135.184",
+      "terms": [
+        "Nícolas Fernando Barbosa",
+        "Nicolas Fernando Barbosa",
+        "OAB/RS 135.184",
+        "OAB RS 135184"
+      ]
+    },
+    {
+      "id": "adv-samuel-dietrich-batistella",
+      "type": "advogado",
+      "label": "Samuel Dietrich Batistella",
+      "oab": "OAB/RS 136.553",
+      "terms": [
+        "Samuel Dietrich Batistella",
+        "OAB/RS 136.553",
+        "OAB RS 136553"
+      ]
+    },
+    {
       "id": "marca-pulo-park",
       "type": "marca",
       "label": "PULÔ PARK",

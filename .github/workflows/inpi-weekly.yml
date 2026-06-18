@@ -5,7 +5,9 @@ on:
     branches:
       - main
     paths-ignore:
-      - "public/data/**"
+      - "public/data/inpi-dashboard.json"
+      - "public/data/notified-matches.json"
+      - "public/data/pending-notifications.json"
   schedule:
     - cron: "0 18 * * 2"
   workflow_dispatch:
