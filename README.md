@@ -41,6 +41,16 @@ SMTP_TLS=true
 NOTIFY_TO=RICARDO.ROSSETTO.ADV@GMAIL.COM
 ```
 
+## Filtrar e-mails por monitor
+
+Para enviar e-mails apenas quando um monitor especifico tiver movimentacao, configure `notification.monitorIds` em `public/data/config.json`.
+
+```json
+"notification": {
+  "monitorIds": ["adv-ricardo-de-luca-rossetto"]
+}
+```
+
 ## Alterar monitoramentos
 
 Edite `public/data/config.json` para adicionar marcas, advogados, requerentes ou termos livres. Cada item pode ter vários termos, e a busca ignora acentos e diferenças simples de pontuação.

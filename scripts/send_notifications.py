@@ -44,7 +44,27 @@ def env(name: str, default: str = "") -> str:
 
 def default_recipient() -> str:
     config = read_json(CONFIG_PATH, {})
-    return config.get("notification", {}).get("email", "")
+    return (config.get("notification") or {}).get("email", "")
+
+
+def notification_monitor_ids() -> set[str]:
+    config = read_json(CONFIG_PATH, {})
+    notification = config.get("notification") or {}
+    raw_ids = notification.get("monitorIds", [])
+    if isinstance(raw_ids, str):
+        raw_ids = [raw_ids]
+    return {str(item).strip() for item in raw_ids if str(item).strip()}
+
+
+def matches_notification_filter(match: dict[str, Any], monitor_ids: set[str]) -> bool:
+    if not monitor_ids:
+        return True
+    return any(str(monitor.get("id", "")).strip() in monitor_ids for monitor in match.get("monitores", []) or [])
+
+
+def filter_notification_matches(matches: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    monitor_ids = notification_monitor_ids()
+    return [match for match in matches if matches_notification_filter(match, monitor_ids)]
 
 
 def summarize_match(match: dict[str, Any]) -> dict[str, str]:
@@ -185,9 +205,13 @@ def mark_notified(matches: list[dict[str, Any]]) -> None:
 
 def main() -> int:
     pending = read_json(PENDING_PATH, {"matches": []})
-    matches = pending.get("matches", [])
-    if not matches:
+    pending_matches = pending.get("matches", [])
+    if not pending_matches:
         print("Nenhuma notificacao pendente.")
+        return 0
+    matches = filter_notification_matches(pending_matches)
+    if not matches:
+        print("Nenhuma notificacao pendente para os monitores configurados.")
         return 0
 
     ready, missing = smtp_ready()

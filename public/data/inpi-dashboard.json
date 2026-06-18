@@ -5662,7 +5662,7 @@
     "startedAt": "2026-06-18T13:56:51+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 9,
-    "pendingNotifications": 100,
+    "pendingNotifications": 0,
     "errors": [],
     "monitors": [
       {
@@ -5690,6 +5690,9 @@
         "label": "PULÔ PARK",
         "type": "marca"
       }
+    ],
+    "notificationMonitorIds": [
+      "adv-ricardo-de-luca-rossetto"
     ]
   }
 }

@@ -254,6 +254,21 @@ def load_monitors(config_path: Path) -> list[dict[str, Any]]:
     return monitors
 
 
+def load_notification_monitor_ids(config_path: Path) -> set[str]:
+    config = read_json(config_path, {})
+    notification = config.get("notification") or {}
+    raw_ids = notification.get("monitorIds", [])
+    if isinstance(raw_ids, str):
+        raw_ids = [raw_ids]
+    return {clean(item) for item in raw_ids if clean(item)}
+
+
+def matches_notification_filter(match: dict[str, Any], monitor_ids: set[str]) -> bool:
+    if not monitor_ids:
+        return True
+    return any(clean(monitor.get("id")) in monitor_ids for monitor in match.get("monitores", []) or [])
+
+
 def tag_name(tag: str) -> str:
     return tag.rsplit("}", 1)[-1] if "}" in tag else tag
 
@@ -520,10 +535,18 @@ def build_revista_summary(
     return sorted(by_number.values(), key=lambda item: int(item.get("numero") or 0), reverse=True)
 
 
-def pending_notifications(matches: list[dict[str, Any]], notified_path: Path) -> list[dict[str, Any]]:
+def pending_notifications(
+    matches: list[dict[str, Any]],
+    notified_path: Path,
+    notification_monitor_ids: set[str],
+) -> list[dict[str, Any]]:
     notified = read_json(notified_path, {"ids": []})
     notified_ids = set(notified.get("ids", []))
-    return [item for item in matches if item.get("id") not in notified_ids]
+    return [
+        item
+        for item in matches
+        if item.get("id") not in notified_ids and matches_notification_filter(item, notification_monitor_ids)
+    ]
 
 
 def run(args: argparse.Namespace) -> int:
@@ -535,6 +558,7 @@ def run(args: argparse.Namespace) -> int:
     monitors = load_monitors(config_path)
     if not monitors:
         raise RuntimeError("Nenhum monitor configurado em public/data/config.json")
+    notification_monitor_ids = load_notification_monitor_ids(config_path)
 
     print("Baixando indice da RPI...", file=sys.stderr)
     page_html = fetch_text(args.source)
@@ -574,7 +598,7 @@ def run(args: argparse.Namespace) -> int:
 
     matches = sort_matches(merge_by_id(existing_data.get("matches", []), new_matches))
     revistas = build_revista_summary(scanned_revistas, existing_data.get("revistas", []), matches)
-    pending = pending_notifications(matches, notified_path)
+    pending = pending_notifications(matches, notified_path, notification_monitor_ids)
 
     data = {
         "generatedAt": now_iso(),
@@ -590,6 +614,7 @@ def run(args: argparse.Namespace) -> int:
             "scannedRevistas": len(scanned_revistas),
             "newMatchesThisRun": len(new_matches),
             "pendingNotifications": len(pending),
+            "notificationMonitorIds": sorted(notification_monitor_ids),
             "errors": errors,
             "monitors": [
                 {

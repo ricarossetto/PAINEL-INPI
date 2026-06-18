@@ -5,6 +5,11 @@
     "source": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
+  "notification": {
+    "monitorIds": [
+      "adv-ricardo-de-luca-rossetto"
+    ]
+  },
   "monitors": [
     {
       "id": "adv-luiz-fernando-soares-costa",
