@@ -11,6 +11,11 @@ on:
   schedule:
     - cron: "0 18 * * 2"
   workflow_dispatch:
+    inputs:
+      scan_limit:
+        description: "Quantidade de RPIs para varrer nesta execução manual"
+        required: false
+        default: "1"
 
 permissions:
   contents: write
@@ -40,7 +45,9 @@ jobs:
       - name: Varredura da RPI
         id: scan
         continue-on-error: true
-        run: python scripts/scan_inpi.py --limit 10 --pause 4 --download-retries 8
+        run: python scripts/scan_inpi.py --limit "$SCAN_LIMIT" --pause 4 --download-retries 8
+        env:
+          SCAN_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.scan_limit || '1' }}
 
       - name: Enviar notificacoes
         if: steps.scan.outcome == 'success'

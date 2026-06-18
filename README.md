@@ -6,8 +6,8 @@ Painel gratuito para acompanhar publicações da Seção V - Marcas da Revista d
 
 - O painel é estático e pode rodar no GitHub Pages sem servidor pago.
 - A varredura lê o índice oficial da RPI, baixa o XML da Seção V - Marcas e procura os alvos configurados.
-- A primeira carga usa as 10 revistas mais recentes.
-- A automação semanal roda toda terça-feira às 18:00 UTC, aproximadamente 15:00 em São Paulo.
+- A primeira carga pode ser feita manualmente com as 10 revistas mais recentes.
+- A automação semanal roda toda terça-feira às 18:00 UTC, aproximadamente 15:00 em São Paulo, lendo apenas a RPI mais recente.
 - As ocorrências ficam em `public/data/inpi-dashboard.json` e aparecem no painel.
 - O e-mail é enviado somente se os segredos SMTP forem configurados no GitHub.
 
@@ -25,7 +25,7 @@ Depois acesse `http://localhost:8000`.
 1. Crie um repositório no GitHub e envie estes arquivos.
 2. Em Settings > Pages, selecione GitHub Actions como fonte.
 3. Em Settings > Secrets and variables > Actions, cadastre os segredos de e-mail.
-4. Rode o workflow `Atualizar Painel INPI` manualmente na primeira vez.
+4. Rode o workflow `Atualizar Painel INPI` manualmente na primeira vez. Use `scan_limit=10` para formar a base inicial; depois deixe `scan_limit=1`.
 
 ## Segredos para e-mail
 
