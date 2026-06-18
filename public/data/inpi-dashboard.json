@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-18T12:51:38+00:00",
+  "generatedAt": "2026-06-18T13:40:08+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 96,
+    "totalMatches": 100,
     "totalRevistas": 10,
-    "totalProcesses": 79,
+    "totalProcesses": 83,
     "latestRevista": {
       "numero": "2893",
       "data": "2026-06-16"
@@ -36,7 +36,7 @@
       "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
       "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2891.zip",
       "status": "lida",
-      "matchCount": 15
+      "matchCount": 16
     },
     {
       "numero": "2890",
@@ -60,7 +60,7 @@
       "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
       "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2888.zip",
       "status": "lida",
-      "matchCount": 9
+      "matchCount": 12
     },
     {
       "numero": "2887",
@@ -2071,6 +2071,59 @@
       "id": "3890ead80ed28e79206b"
     },
     {
+      "processo": "935287850",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CELEIRO EMPREENDIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "Recurso contra o indeferimento. Nícolas Fernando Barbosa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7cda17f91915468acdc6"
+    },
+    {
       "processo": "914949438",
       "dataDeposito": "",
       "dataConcessao": "",
@@ -3475,6 +3528,180 @@
         }
       ],
       "id": "ae6071adf559b8ed0d2a"
+    },
+    {
+      "processo": "943357810",
+      "dataDeposito": "10/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "MARKATY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MUXO SERVIÇOS E INDUSTRIA DE EQUIPAMENTOS LTDA",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "07",
+          "status": "Pendente",
+          "especificacao": "Aparelhos eletromecânicos para preparação de alimentos;Compressor para refrigeração de uso industrial;Dispositivo automático para alimentação de animal;Máquinas agrícolas;Máquinas misturadoras;Máquinas moedoras;Máquinas para laticínios;Máquinas trituradoras;Sistema mecânico para alimentação de animais;"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "943ad478f1904a97b079"
+    },
+    {
+      "processo": "943356458",
+      "dataDeposito": "10/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "MARKATY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MUXO SERVIÇOS E INDUSTRIA DE EQUIPAMENTOS LTDA",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "11",
+          "status": "Pendente",
+          "especificacao": "Aparelhos alimentadores de caldeiras de aquecimento;Aparelhos de aquecimento;Aparelhos e instalações de iluminação;Aparelhos e máquinas para purificação de água;Aquecedores de água*;Instalação para abastecimento de água;Instalações de aquecimento;Instalações e aparelhos de ventilação [ar-condicionado];Instalações para fornecimento de água;Instalações para resfriamento de leite;Máquina e equipamento para aquecimento;Máquina e equipamento para ventilação;"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "036b2963e528ad658551"
+    },
+    {
+      "processo": "943354544",
+      "dataDeposito": "10/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "Lucrou Consórcios e Seguros",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LUCROU CONSORCIOS E SEGUROS",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente",
+          "especificacao": "Administração de consórcio;Administração de planos de seguros;Assessoria, consultoria e informação em seguros;Assessoria, consultoria e informação sobre seguros de saúde;Consórcio de bens [serviços financeiros];Consultoria em seguros;Corretagem de seguros;"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "ab5c739e528175949250"
     },
     {
       "processo": "936397322",
@@ -5432,10 +5659,10 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-06-18T12:51:38+00:00",
-    "scannedRevistas": 4,
-    "newMatchesThisRun": 35,
-    "pendingNotifications": 96,
+    "startedAt": "2026-06-18T13:40:08+00:00",
+    "scannedRevistas": 10,
+    "newMatchesThisRun": 100,
+    "pendingNotifications": 100,
     "errors": [],
     "monitors": [
       {
@@ -5446,6 +5673,16 @@
       {
         "id": "adv-ricardo-de-luca-rossetto",
         "label": "Ricardo de Luca Rossetto",
+        "type": "advogado"
+      },
+      {
+        "id": "adv-nicolas-fernando-barbosa",
+        "label": "Nícolas Fernando Barbosa",
+        "type": "advogado"
+      },
+      {
+        "id": "adv-samuel-dietrich-batistella",
+        "label": "Samuel Dietrich Batistella",
         "type": "advogado"
       },
       {
