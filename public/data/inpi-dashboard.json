@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:56:51+00:00",
+  "generatedAt": "2026-06-18T14:21:23+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
@@ -5659,10 +5659,13 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-06-18T13:56:51+00:00",
+    "startedAt": "2026-06-18T14:21:23+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 9,
     "pendingNotifications": 0,
+    "notificationMonitorIds": [
+      "adv-ricardo-de-luca-rossetto"
+    ],
     "errors": [],
     "monitors": [
       {
@@ -5690,9 +5693,6 @@
         "label": "PULÔ PARK",
         "type": "marca"
       }
-    ],
-    "notificationMonitorIds": [
-      "adv-ricardo-de-luca-rossetto"
     ]
   }
 }
