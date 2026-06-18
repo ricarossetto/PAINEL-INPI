@@ -1,6 +1,11 @@
 name: Atualizar Painel INPI
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "public/data/**"
   schedule:
     - cron: "0 18 * * 2"
   workflow_dispatch:
