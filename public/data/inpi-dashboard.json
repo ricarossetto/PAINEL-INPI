@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:45:50+00:00",
+  "generatedAt": "2026-06-18T13:48:46+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
@@ -5659,7 +5659,7 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-06-18T13:45:50+00:00",
+    "startedAt": "2026-06-18T13:48:46+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 9,
     "pendingNotifications": 100,
