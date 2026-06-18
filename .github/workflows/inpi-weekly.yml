@@ -9,7 +9,7 @@ on:
       - "public/data/notified-matches.json"
       - "public/data/pending-notifications.json"
   schedule:
-    - cron: "0 18 * * 2"
+    - cron: "0 21 * * 2"
   workflow_dispatch:
     inputs:
       scan_limit:

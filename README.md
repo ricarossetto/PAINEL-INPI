@@ -7,7 +7,7 @@ Painel gratuito para acompanhar publicações da Seção V - Marcas da Revista d
 - O painel é estático e pode rodar no GitHub Pages sem servidor pago.
 - A varredura lê o índice oficial da RPI, baixa o XML da Seção V - Marcas e procura os alvos configurados.
 - A primeira carga pode ser feita manualmente com as 10 revistas mais recentes.
-- A automação semanal roda toda terça-feira às 18:00 UTC, aproximadamente 15:00 em São Paulo, lendo apenas a RPI mais recente.
+- A automação semanal roda toda terça-feira às 18:00 no horário de São Paulo, lendo apenas a RPI mais recente.
 - As ocorrências ficam em `public/data/inpi-dashboard.json` e aparecem no painel.
 - O e-mail é enviado somente se os segredos SMTP forem configurados no GitHub.
 
