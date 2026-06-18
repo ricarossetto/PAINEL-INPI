@@ -44,13 +44,11 @@ jobs:
 
       - name: Varredura da RPI
         id: scan
-        continue-on-error: true
         run: python scripts/scan_inpi.py --limit "$SCAN_LIMIT" --pause 4 --download-retries 8
         env:
           SCAN_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.scan_limit || '1' }}
 
       - name: Enviar notificacoes
-        if: steps.scan.outcome == 'success'
         run: python scripts/send_notifications.py
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -62,7 +60,6 @@ jobs:
           NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
 
       - name: Salvar dados atualizados
-        if: steps.scan.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
