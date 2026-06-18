@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.log
+painel-inpi-*.png
 .DS_Store
 Thumbs.db
 storage/

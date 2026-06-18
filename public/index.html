@@ -4,14 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Painel INPI</title>
-    <link rel="stylesheet" href="./assets/styles.css?v=20260618-1" />
+    <meta name="theme-color" content="#101318" />
+    <link rel="stylesheet" href="./assets/styles.css?v=20260618-2" />
   </head>
   <body>
     <main class="shell">
       <header class="topbar">
-        <div>
-          <p class="eyebrow">Seção V - Marcas</p>
-          <h1>Painel INPI</h1>
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">IN</div>
+          <div>
+            <p class="eyebrow">Seção V - Marcas</p>
+            <h1>Painel INPI</h1>
+            <p class="headline-copy">Varredura automatizada da RPI para marcas, procuradores, requerentes e processos monitorados.</p>
+          </div>
         </div>
         <div class="status-block">
           <span id="sourceStatus" class="status-pill">Carregando</span>
@@ -107,7 +112,10 @@
               <span id="resultCount" class="muted">0 registros</span>
             </div>
             <button id="resetFilters" class="icon-button" type="button" title="Limpar filtros" aria-label="Limpar filtros">
-              <span aria-hidden="true">↺</span>
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M4 4v6h6" />
+                <path d="M20 12a8 8 0 0 1-14.7 4.4M4.6 9.7A8 8 0 0 1 18 7" />
+              </svg>
             </button>
           </div>
           <div id="resultsList" class="results-list"></div>
@@ -119,6 +127,6 @@
       </section>
     </main>
 
-    <script src="./assets/app.js?v=20260618-1"></script>
+    <script src="./assets/app.js?v=20260618-2"></script>
   </body>
 </html>
