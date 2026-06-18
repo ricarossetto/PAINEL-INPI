@@ -1,7 +1,4 @@
 {
-  "notification": {
-    "email": "RICARDO.ROSSETTO.ADV@GMAIL.COM"
-  },
   "scan": {
     "initialLimit": 10,
     "weeklyLimit": 10,
