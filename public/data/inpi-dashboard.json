@@ -1,0 +1,5458 @@
+{
+  "generatedAt": "2026-06-18T12:51:38+00:00",
+  "source": {
+    "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
+    "section": "Secao V - Marcas"
+  },
+  "statistics": {
+    "totalMatches": 96,
+    "totalRevistas": 10,
+    "totalProcesses": 79,
+    "latestRevista": {
+      "numero": "2893",
+      "data": "2026-06-16"
+    }
+  },
+  "revistas": [
+    {
+      "numero": "2893",
+      "data": "2026-06-16",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2893.zip",
+      "status": "lida",
+      "matchCount": 9
+    },
+    {
+      "numero": "2892",
+      "data": "2026-06-09",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2892.zip",
+      "status": "lida",
+      "matchCount": 14
+    },
+    {
+      "numero": "2891",
+      "data": "2026-06-02",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2891.zip",
+      "status": "lida",
+      "matchCount": 15
+    },
+    {
+      "numero": "2890",
+      "data": "2026-05-26",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2890.zip",
+      "status": "lida",
+      "matchCount": 12
+    },
+    {
+      "numero": "2889",
+      "data": "2026-05-19",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2889.zip",
+      "status": "lida",
+      "matchCount": 10
+    },
+    {
+      "numero": "2888",
+      "data": "2026-05-12",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2888.zip",
+      "status": "lida",
+      "matchCount": 9
+    },
+    {
+      "numero": "2887",
+      "data": "2026-05-05",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2887.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2887.zip",
+      "status": "lida",
+      "matchCount": 3
+    },
+    {
+      "numero": "2886",
+      "data": "2026-04-28",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2886.zip",
+      "status": "lida",
+      "matchCount": 8
+    },
+    {
+      "numero": "2885",
+      "data": "2026-04-22",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2885.zip",
+      "status": "lida",
+      "matchCount": 11
+    },
+    {
+      "numero": "2884",
+      "data": "2026-04-14",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2884.zip",
+      "status": "lida",
+      "matchCount": 5
+    }
+  ],
+  "matches": [
+    {
+      "processo": "943676681",
+      "dataDeposito": "11/05/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VOLTS",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "CRISTIANO RAFAEL BOLFE BOENO ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Comércio (através de qualquer meio) de suprimentos técnicos e componentes para sistemas elétricos, eletroeletrônicos e automação. Assessoria e consultoria comercial e administrativa relacionadas a projetos elétricos e sistemas de automação predial e industrial. Assessoria comercial relacionada à implementação de projetos elétricos e sistemas eletroeletrônicos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "61c1daaf5b08b80cfa81"
+    },
+    {
+      "processo": "939667215",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FABRICIO ALVES DA SILVA PAULINO ME",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Representação comercial;Serviços de agências de impo…"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3bd52b99c182245e0112"
+    },
+    {
+      "processo": "938998595",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CADILES COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "28",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Agulhas de bombas de ar para encher bolas de jogos;Aparelhos para exercícios físicos;Arco para exercício;Armas de paintball [artigos desportivos];Baliza para esporte;Barra para praticar exercício;Blocos de partida para esportes;Bola de boliche;Bola de pingue-pongue;Bola para aliviar o estresse [para exercitar as mãos];Bolas de bilhar;Bolas para brincadeiras e jogos;Bolas pequenas para jogos;Bolsa para raquete;Bombas adaptadas especialmente para uso em bolas de jogo;Boneco para pugilismo ou futebol americano;Brinquedos*;Câmaras de ar de bolas para jogos;Caneleira com peso;Caneleiras [artigos desportivos];Capa para raquete de tênis;Catapulta [artigo esportivo];Cavalete para salto [artigo para…"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "0756cb7f2628d5b48797"
+    },
+    {
+      "processo": "938998552",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CADILES COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "25",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Agasalhos para as mãos;Bandanas;Bermuda para prática de esporte;Bermudas;Boné;Bonés;Botas para esportes *;Calçado esportivo;Calçados *;Calcanheiras para meias;Calças compridas;Camisas desportivas;Camisetas;Camisetas regata para a prática de esportes;Casacos [jaquetas];Chinelo [vestuário comum];Chuteiras;Coletes;Cuecas;Leggings [calças];Luvas [vestuário];Malhas [vestuário];Meias;Meias absorventes de transpiração;Palmilhas;Roupa para esportes [jersey];Roupa para ginástica;Sapatos para esportes *;Sapatos para ginástica;Sungas;Toucas de banho;Toucas de natação;Travas para chuteiras de futebol;Vestuário *;luvas de ciclismo;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bbdc855a14fa8bdcc5d3"
+    },
+    {
+      "processo": "937102610",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ANA PAULA BARTH",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Aconselhamento em dieta e nutrição;Estética [tratamento da pele e cabelo];Massagem;Serviços de estética;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d12dc62a72630a4f5fa4"
+    },
+    {
+      "processo": "936812354",
+      "dataDeposito": "29/10/2024",
+      "dataConcessao": "16/06/2026",
+      "dataVigencia": "16/06/2036",
+      "marca": {
+        "nome": "CIÊNSCI NEUROMODULAÇÃO CLÍNICA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "ANDARY E RICARDI PSIQUIATRIA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Consultas médicas [serviços médicos];Exames médicos;Serviços de clínica médica;Atendimentos e procedimentos médicos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "54f59d507003191e1e43"
+    },
+    {
+      "processo": "936667508",
+      "dataDeposito": "17/10/2024",
+      "dataConcessao": "16/06/2026",
+      "dataVigencia": "16/06/2036",
+      "marca": {
+        "nome": "Bittencourt Agrícola",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BITTENCOURT HOLDING AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Aluguel de equipamentos agrícolas; Aspersão, aérea ou de superfície, de fertilizantes e outras substâncias químicas agrícolas; Assessoria, consultoria e informação sobre aplicação de pesticidas e sobre resíduos de pesticidas em alimentos; Exterminação de animais nocivos para agricultura, aquacultura, horticultura e silvicultura; Extermínio de animais nocivos para agricultura, hidrocultura, horticultura e silvicultura; Pulverização [agropecuária]; Tratamento fitossanitário [controle de pragas agrícolas].;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d1aeccea1df0abd5598b"
+    },
+    {
+      "processo": "936667290",
+      "dataDeposito": "17/10/2024",
+      "dataConcessao": "16/06/2026",
+      "dataVigencia": "16/06/2036",
+      "marca": {
+        "nome": "Bittencourt Agrícola",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BITTENCOURT HOLDING AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Deferida",
+          "especificacao": "sementes para plantio graos cereais, produtos agricolas, florestais, graos e sementes crus e não processados, cereais em grao, sub produto do processamento de cereais, para consumo. Sementes constantes nesta categoria; aveia; farelo; grãos [cereais]; grãos para consumo animal; milho in natura; sementes para plantio; soja fresca; trigo; alimento para animais confinados; alimento para gado; alimentos para animais; animais de criação; animais vivos; bloco de sal para animais; plantas; preparações para engorda de animais; ração para animal; reprodutores e matrizes; resíduos de destilaria para consumo animal; sal para gado.;"
+        }
+      ],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "b625ba4b0ad088722fda"
+    },
+    {
+      "processo": "932369430",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "RAPHAEL WINKELMANN",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Dados corrigidos: Conforme documentos apresentados no pedido. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2893",
+        "data": "2026-06-16"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2893.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2893.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "379f30f67f0c423b7e01"
+    },
+    {
+      "processo": "936795573",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JOÃO VITOR DE JESUS NETO",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Observada divergência entre o texto presente na etiqueta da marca mista e a declaração da parte nominativa. Efetuada alteração para adequação do elemento nominativo ao apresentado na etiqueta com a correção do termo \"VOLKMANN\"."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Deferida",
+          "especificacao": "Armação de óculos;Cordões para óculos;Correntes para óculos;Estojos de óculos;Instrumentos e aparelhos ópticos;Lentes de contato;Lentes de óculos;Lentes ópticas;Objetivas [lentes] [óptica];Oculares [instrumentos ópticos];Óculos;Óculos antiofuscantes;Óculos de sol;Óculos para correção do daltonismo;Parafusos micrométricos para instrumentos ópticos;Aparelhos e instrumentos ópticos e óticos inclusos nessa classe.;"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bc08c997702159600306"
+    },
+    {
+      "processo": "936795409",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JOÃO VITOR DE JESUS NETO",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Deferida",
+          "especificacao": "Armação de óculos;Cordões para óculos;Correntes para óculos;Estojos de óculos;Instrumentos e aparelhos ópticos;Lentes de contato;Lentes de óculos;Lentes ópticas;Objetivas [lentes] [óptica];Oculares [instrumentos ópticos];Óculos;Óculos antiofuscantes;Óculos de sol;Óculos para correção do daltonismo;Parafusos micrométricos para instrumentos ópticos;Aparelhos e instrumentos ópticos e óticos inclusos nessa classe.;"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2b59bdd7148fbd5e1fb4"
+    },
+    {
+      "processo": "936696079",
+      "dataDeposito": "21/10/2024",
+      "dataConcessao": "09/06/2026",
+      "dataVigencia": "09/06/2036",
+      "marca": {
+        "nome": "grisallys clínica geriátrica",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "CLINICA GERIATRICA GRISALLYS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Serviços administrativos para encaminhamentos médicos;Comércio através de qualquer meio de planos assistenciais. Comércio através de qualquer meio de planos de saúde. Ass…"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "50f190348b336fee30a8"
+    },
+    {
+      "processo": "936695870",
+      "dataDeposito": "21/10/2024",
+      "dataConcessao": "09/06/2026",
+      "dataVigencia": "09/06/2036",
+      "marca": {
+        "nome": "grisallys clínica geriátrica",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "CLINICA GERIATRICA GRISALLYS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Serviços de casas de repouso;Serviços de clínica de repouso;Serviços de enfermagem domiciliar;Clinica de cuidado de idosos. Acompanhamento médico. Serviços de enfermagem;"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e96e74ee2f6952c1b5fb"
+    },
+    {
+      "processo": "936427043",
+      "dataDeposito": "30/09/2024",
+      "dataConcessao": "09/06/2026",
+      "dataVigencia": "09/06/2036",
+      "marca": {
+        "nome": "MT AUTOMAÇÃO DE PORTÕES",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "50.784.773 TAILOR MACHADO POSSOBON",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Instalação, manutenção e reparo de portões eletrônicos e portas de enrolar automáticas.;"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f6c24e82bc75c51ab3cc"
+    },
+    {
+      "processo": "929687469",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS235",
+          "nome": "Recurso não provido (decisão mantida)",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "edeb4e20383105357c38"
+    },
+    {
+      "processo": "928544435",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ATACADÃO AMIGOS DO REAL COMÉRCIO DE UTILIDADES LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Peduti Sociedade de Advogados",
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS400",
+          "nome": "Notificação de instauração de processo de nulidade a requerimento",
+          "texto": "Peduti Sociedade de Advogados"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "800a81f3e7db96818c19"
+    },
+    {
+      "processo": "926331019",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "NINTEC DESENVOLVIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bd6668624862e130fe62"
+    },
+    {
+      "processo": "926330543",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "NINTEC DESENVOLVIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "35a5fbae2e2e9ce2c12b"
+    },
+    {
+      "processo": "920793703",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ALEX MARIANO LEITE ME",
+          "pais": "BR",
+          "uf": "SP"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f7ad07f78be85e9e042e"
+    },
+    {
+      "processo": "920792715",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ALEX MARIANO LEITE ME",
+          "pais": "BR",
+          "uf": "SP"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f99eed71aadc76c7b77d"
+    },
+    {
+      "processo": "920792324",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ALEX MARIANO LEITE ME",
+          "pais": "BR",
+          "uf": "SP"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "6fc4a2b640ce22fe0c21"
+    },
+    {
+      "processo": "905633326",
+      "dataDeposito": "05/12/2012",
+      "dataConcessao": "17/11/2015",
+      "dataVigencia": "17/11/2035",
+      "marca": {
+        "nome": "Rádio Ciranda rádio 105,5",
+        "apresentacao": "Mista",
+        "natureza": "De Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "RADIO CIRANDA DE CHIAPETTA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "ARGEMIRO MATIAS DE OLIVEIRA"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Rádio (Programas de entretenimento de -) - [Informação em]; Rádio (Programas de entretenimento de -) - [Consultoria em]; Rádio (Programas de entretenimento de -) - [Assessoria em]; Rádio (Programas de entretenimento de -); Rádio e Televisão (Produção de programas de -) - [Informação em]; Rádio e Televisão (Produção de programas de -) - [Consultoria em]; Rádio e Televisão (Produção de programas de -) - [Assessoria em]; Rádio e Televisão (Produção de programas de -).;"
+        }
+      ],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3abe32d9752c58173c54"
+    },
+    {
+      "processo": "820845965",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "DAKOTA S.A.",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "CUSTÓDIO DE ALMEIDA & CIA."
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS338",
+          "nome": "Notificação de caducidade",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2892",
+        "data": "2026-06-09"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2892.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2892.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3ec4ee2234e17c4e5f26"
+    },
+    {
+      "processo": "941689743",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "EQUILIBRIUM CENTRO TERAPEUTICO DA OBESIDADE LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "Patrícia Lorenzoni da Silveira"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS428",
+          "nome": "Decisão de não conhecer da petição",
+          "texto": "Art. 219. Não serão conhecidos a petição, a oposição e o recurso, quando: ? III - desacompanhados do comprovante do pagamento da retribuição correspondente. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "b59a12629786540a0798"
+    },
+    {
+      "processo": "941299880",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JEFERSON DALMIR KRISTOSCHIK LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bc4492a435be92b6d842"
+    },
+    {
+      "processo": "941299465",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JEFERSON DALMIR KRISTOSCHIK LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d6ab87a36389c9506b23"
+    },
+    {
+      "processo": "941296202",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JEFERSON DALMIR KRISTOSCHIK LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8f9d9da24288605a51aa"
+    },
+    {
+      "processo": "941291928",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JEFERSON DALMIR KRISTOSCHIK LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "ce978d17d0c55d6f8a8d"
+    },
+    {
+      "processo": "936899930",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "VERTICE ESTRUTURAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "Fica ainda consignada, a título de subsídio a eventual recurso, a identificação das seguintes anterioridades, ainda não decididas, consideradas igualmente colidentes com o presente sinal: 936553316 (VÉRTICE DATA CENTER), 928943070 (estúdio vértice ARQUITETURA), 932228372 (Vértice PRO), 933072155 (VÉRTICE TECH) e 933072244 (VÉRTICE CLOUD). A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 904235645 (VERTICE AGRIMENSURA PLANEJAMENTO). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Deferida",
+          "especificacao": "Projetos estruturais em concreto armado; Projetos estruturais em concreto protendido; Projetos estruturais em estrutura metálica.;"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5bf66482b4e2fab6c403"
+    },
+    {
+      "processo": "936824409",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MATZ ARQUITERTURA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 935969500 (Matiz Arquitetura). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Deferida",
+          "especificacao": "Realização de estudos para projetos técnicos;Serviços de sinalização [projetos arquitetônicos e engenharia];Projetos arquitetônicos;"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "10d783b90736a95d3357"
+    },
+    {
+      "processo": "936812354",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ANDARY E RICARDI PSIQUIATRIA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Consultas médicas [serviços médicos];Exames médicos;Serviços de clínica médica;Atendimentos e procedimentos médicos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a7c57697983b7bd2f833"
+    },
+    {
+      "processo": "936667508",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BITTENCOURT HOLDING AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Aluguel de equipamentos agrícolas; Aspersão, aérea ou de superfície, de fertilizantes e outras substâncias químicas agrícolas; Assessoria, consultoria e informação sobre aplicação de pesticidas e sobre resíduos de pesticidas em alimentos; Exterminação de animais nocivos para agricultura, aquacultura, horticultura e silvicultura; Extermínio de animais nocivos para agricultura, hidrocultura, horticultura e silvicultura; Pulverização [agropecuária]; Tratamento fitossanitário [controle de pragas agrícolas].;"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bb5a6673b91ac0498a7c"
+    },
+    {
+      "processo": "936667290",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BITTENCOURT HOLDING AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Deferida",
+          "especificacao": "sementes para plantio graos cereais, produtos agricolas, florestais, graos e sementes crus e não processados, cereais em grao, sub produto do processamento de cereais, para consumo. Sementes constantes nesta categoria; aveia; farelo; grãos [cereais]; grãos para consumo animal; milho in natura; sementes para plantio; soja fresca; trigo; alimento para animais confinados; alimento para gado; alimentos para animais; animais de criação; animais vivos; bloco de sal para animais; plantas; preparações para engorda de animais; ração para animal; reprodutores e matrizes; resíduos de destilaria para consumo animal; sal para gado.;"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e8a9072df2f6f41c3d53"
+    },
+    {
+      "processo": "936667087",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BITTENCOURT HOLDING AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 824320565 (BITTENCOURT). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Representação comercial;comércio atraves de qualquer meio de produtos alimenticios (graos), de semente, substancias quimicas destinada a agricultura, de animais vivos, ge…"
+        }
+      ],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "49d94e7a114ae441ba91"
+    },
+    {
+      "processo": "936113308",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MARICATO SOLUCOES DE VENDAS LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS139",
+          "nome": "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito",
+          "texto": ""
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8ed2486279951edefb73"
+    },
+    {
+      "processo": "936113170",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MARICATO SOLUCOES DE VENDAS LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS139",
+          "nome": "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito",
+          "texto": ""
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3890ead80ed28e79206b"
+    },
+    {
+      "processo": "914949438",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "IMED-INSTITUTO DE MEDICINA E DIAGNÓSTICO POR IMAGEM LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Suprema Marcas e Patentes Ltda. ME e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "33bb0282a2782f0bb313"
+    },
+    {
+      "processo": "914947753",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "IMED-INSTITUTO DE MEDICINA E DIAGNÓSTICO POR IMAGEM LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Suprema Marcas e Patentes Ltda. ME e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2891",
+        "data": "2026-06-02"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2891.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2891.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "b50218d3f9aaed926aad"
+    },
+    {
+      "processo": "943464633",
+      "dataDeposito": "22/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VERSELLER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MULLER EMPREENDIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Pendente",
+          "especificacao": "Design de interiores;Planejamento urbano;Projeto de engenharia civil;Projeto de engenharia elétrica;Realização de estudos para projetos técnicos;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "204c5986d8797cec7e7c"
+    },
+    {
+      "processo": "943464617",
+      "dataDeposito": "22/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VERSELLER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MULLER EMPREENDIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente",
+          "especificacao": "Construção e reparação de obra civil;Consultoria na área de construção civil;Impermeabilização em obra civil;Supervisão de trabalhos de construção civil;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4f16f50b98af3941394c"
+    },
+    {
+      "processo": "943464579",
+      "dataDeposito": "22/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VERSELLER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MULLER EMPREENDIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente",
+          "especificacao": "Administração de imóveis;Compra e venda de imóveis;Incorporação de imóvel;Loteamento imobiliário;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "0c305fc45c2886784ddb"
+    },
+    {
+      "processo": "943464544",
+      "dataDeposito": "22/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VERSELLER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MULLER EMPREENDIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Assessoria, consultoria e informação econômica, para os setores industrial e comercial das empresas, visando o planejamento, organização, monitoramento e desenvolvimento de projetos [também provido on-line] [assessoria em gestão comercial];Gestão de custos de projetos de construção;Gestão de franquia para terceiros;Representação comercial de produtos ou serviços de terceiros;Serviços de agências de importação-exportação;Serviços de gestão de negócios para projetos de construção;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3a7bcf319b142e4c1131"
+    },
+    {
+      "processo": "936757868",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "COMPIERE ESTUDIO DE ARQUITETURA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        },
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Agenciamento de mão-de-obra;Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Assessoria, consultoria e informação econômica, para os setores industrial e comercial das empresas, visando o planejamento, organização, monitoramento e desenvolvimento de projetos [também provido on-line] [assessoria em gestão comercial];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Serviços de gestão de negócios para projetos de construção;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4c2b85db8404b19cc581"
+    },
+    {
+      "processo": "936706546",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "LUNE PRODUTORA E AGÊNCIA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Comércio [através de qualquer meio] de artigos de chapelaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de jogos e brinquedos;Agenciamento de artistas; Agenciamento de modelo para publicidade [administração de carreira]; Agenciamento, gestão e intermediação de obra artística Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing]; Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet Assessoria, consultoria e informação em publicidade e propaganda através de qualquer meio; Captação de patrocínio; Con…"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "81813d6dea49e5c59801"
+    },
+    {
+      "processo": "936397322",
+      "dataDeposito": "27/09/2024",
+      "dataConcessao": "26/05/2026",
+      "dataVigencia": "26/05/2036",
+      "marca": {
+        "nome": "TRATAMENTO DE CHOQUE",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Agente artístico; literário e cultural [promotor de evento]; Apresentação de espetáculos ao vivo; Apresentação de espetáculos de variedades; Assessoria, consultoria e informação em entretenimento [lazer]; Cursos livres [ensino]; Desfile de moda somente para entretenimento; Direção de shows; Edição de texto, exceto de publicidade [copidesque]; Elaboração de roteiros [roteirização]; Empresário [organização e produção de espetáculos]; Filmagem em vídeo; Fornecimento de filmes, não baixáveis, através de serviços de vídeo sob demanda; Fotografia; Organização de espetáculos [shows] [serviços de empresário]; Organização de eventos de assunção de personagens [cosplay] para fins de entretenimento; O…"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2a878de4b0e3fdc04cd0"
+    },
+    {
+      "processo": "936397284",
+      "dataDeposito": "27/09/2024",
+      "dataConcessao": "26/05/2026",
+      "dataVigencia": "26/05/2036",
+      "marca": {
+        "nome": "TRATAMENTO DE CHOQUE",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de bijuteria; Comércio (através de qualquer meio) de roupas; Comércio [através de qualquer meio] de bolsas femininas; Comércio [através de qualquer meio] de calçados; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas…"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "fc2c6891b6a5d5b69006"
+    },
+    {
+      "processo": "936397233",
+      "dataDeposito": "27/09/2024",
+      "dataConcessao": "26/05/2026",
+      "dataVigencia": "26/05/2036",
+      "marca": {
+        "nome": "TRATAMENTO DE CHOQUE",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "25",
+          "status": "Deferida",
+          "especificacao": "Alpercatas; Artigos de chapelaria; Artigos de malha [vestuário]; Bandanas; Bermudas; Bonés; Calçados*; Camisetas; Chapéus [chapelaria]; Chapéus de papel [vestuário]; Combinações [vestuário]; Faixas [vestuário]; Faixas para a cabeça [vestuário]; Gorros; Malhas [vestuário]; Meias; Vestuário * Viseiras [chapelaria];"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "c0709d52d380514922ea"
+    },
+    {
+      "processo": "936397071",
+      "dataDeposito": "27/09/2024",
+      "dataConcessao": "26/05/2026",
+      "dataVigencia": "26/05/2036",
+      "marca": {
+        "nome": "COMÉDIA ZEPAM",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de bijuteria; Comércio (através de qualquer meio) de roupas; Comércio [através de qualquer meio] de bolsas femininas; Comércio [através de qualquer meio] de calçados; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas…"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e29410556a242fa94f5e"
+    },
+    {
+      "processo": "936113677",
+      "dataDeposito": "05/09/2024",
+      "dataConcessao": "26/05/2026",
+      "dataVigencia": "26/05/2036",
+      "marca": {
+        "nome": "CARBON Xtra",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "74b0658d1cae80dfab87"
+    },
+    {
+      "processo": "819409421",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "QUALYCÓPIAS SISTEMAS REPROGRÁFICOS E EDITORA LTDA",
+          "pais": "BR",
+          "uf": "MG"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "Júlia Parma Cantarino"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS669",
+          "nome": "Deferimento da petição de caducidade",
+          "texto": "A marca apresentada através dos meios de prova trazidos não se refere àquela constante do Certificado de Registro de Marca. Base Legal: Inciso II do Artigo 143 da Lei da Propriedade Industrial (LPI, lei n.º 9.279, de 14 de maio de 1996). Art. 143 - Caducará o registro, a requerimento de qualquer pessoa com legítimo interesse se, decorridos 5 (cinco) anos da sua concessão, na data do requerimento: II - o uso da marca tiver sido interrompido por mais de 5 (cinco) anos consecutivos, ou se, no mesmo prazo, a marca tiver sido usada com modificação que implique alteração de seu caráter distintivo original, tal como constante do certificado de registro. A titular do registro caducando não apresentou conjunto probatório suficiente que comprove o uso efetivo da marca mista na oferta para os consumidores dos serviços discriminados no certificado de registro, de forma a abranger todo o período de…"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2890",
+        "data": "2026-05-26"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2890.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2890.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "0133821944393d4c410f"
+    },
+    {
+      "processo": "943419530",
+      "dataDeposito": "16/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "QWA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "WCD CONTROLADORIA E INVESTIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Comércio [através de qualquer meio] de aparelhos e instrumentos para conduzir, interromper, transformar, acumular, regular ou controlar eletricidade;Comércio [através de qualquer meio] de engates de máquinas e componentes de transmissão [exceto para veículos terrestres];Comércio [através de qualquer meio] de ferramentas manuais;Comércio [através de qualquer meio] de máquinas distribuidoras automáticas;Comércio [através de qualquer meio] de máquinas-ferramentas;Gestão de franquia para terceiros;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Representação comercial de produtos ou serviços de terceiros;Serviços de agências de importação-expor…"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "dc9cad2bf3e24064c7d1"
+    },
+    {
+      "processo": "943416337",
+      "dataDeposito": "16/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "QWA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "WCD CONTROLADORIA E INVESTIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Pendente",
+          "especificacao": "Plataforma computacional como serviço [paas];"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a410655da8017a4e8bde"
+    },
+    {
+      "processo": "943415950",
+      "dataDeposito": "16/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "QWA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "WCD CONTROLADORIA E INVESTIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Pendente",
+          "especificacao": "Aplicativos, baixáveis;"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "28a8a84e78c5612d429f"
+    },
+    {
+      "processo": "943415683",
+      "dataDeposito": "16/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "QUALYMETRIA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "WCD CONTROLADORIA E INVESTIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Pendente",
+          "especificacao": "Aplicativos, baixáveis;"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bc985fb371e179ec36de"
+    },
+    {
+      "processo": "936696079",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CLINICA GERIATRICA GRISALLYS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Serviços administrativos para encaminhamentos médicos;Comércio através de qualquer meio de planos assistenciais. Comércio através de qualquer meio de planos de saúde. Ass…"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "795476085bd70d8ab6e7"
+    },
+    {
+      "processo": "936695870",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CLINICA GERIATRICA GRISALLYS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Serviços de casas de repouso;Serviços de clínica de repouso;Serviços de enfermagem domiciliar;Clinica de cuidado de idosos. Acompanhamento médico. Serviços de enfermagem;"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8ddfcac027d2f3fe1a7e"
+    },
+    {
+      "processo": "936427043",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "50.784.773 TAILOR MACHADO POSSOBON",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Instalação, manutenção e reparo de portões eletrônicos e portas de enrolar automáticas.;"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5f181127a0a216cae965"
+    },
+    {
+      "processo": "936405821",
+      "dataDeposito": "27/09/2024",
+      "dataConcessao": "19/05/2026",
+      "dataVigencia": "19/05/2036",
+      "marca": {
+        "nome": "LUNE KIDS",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LUNE PRODUTORA E AGÊNCIA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Agente artístico; literário e cultural [promotor de evento];Apresentação de espetáculos de variedades;Assessoria, consultoria e informação em entretenimento [lazer];Desfile de moda somente para entretenimento;Edição de texto, exceto de publicidade [copidesque];Empresário [organização e produção de espetáculos];Filmagem em vídeo;Fornecimento de filmes, não baixáveis, através de serviços de video sob demanda;Fotografia;Organização de espetáculos [shows] [serviços de empresário];Organização e realização de eventos de entretenimento;Produção de podcasts;Produção de programas de rádio e televisão;Produção de shows;Produção musical;Produções teatrais;Programas de entretenimento de rádio;Programas…"
+        }
+      ],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1d3ac94d772198a29dfd"
+    },
+    {
+      "processo": "929693230",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS235",
+          "nome": "Recurso não provido (decisão mantida)",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "21503aad709b9d924e08"
+    },
+    {
+      "processo": "929612990",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "KREIN & SCHAEFER DISTRIBUIDORA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "Recurso contra o indeferimento. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2889",
+        "data": "2026-05-19"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2889.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2889.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "154530d3e8f4f471ff1c"
+    },
+    {
+      "processo": "943389577",
+      "dataDeposito": "14/04/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "BENNAVIE CONDOMÍNIO",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BOSQUE DOS MANANCIAIS LOTEAMENTO DE IMOVEIS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente",
+          "especificacao": "Administração de condomínio;"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "ae6071adf559b8ed0d2a"
+    },
+    {
+      "processo": "936397322",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Agente artístico; literário e cultural [promotor de evento]; Apresentação de espetáculos ao vivo; Apresentação de espetáculos de variedades; Assessoria, consultoria e informação em entretenimento [lazer]; Cursos livres [ensino]; Desfile de moda somente para entretenimento; Direção de shows; Edição de texto, exceto de publicidade [copidesque]; Elaboração de roteiros [roteirização]; Empresário [organização e produção de espetáculos]; Filmagem em vídeo; Fornecimento de filmes, não baixáveis, através de serviços de vídeo sob demanda; Fotografia; Organização de espetáculos [shows] [serviços de empresário]; Organização de eventos de assunção de personagens [cosplay] para fins de entretenimento; O…"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "fc3f7b973ddd237f8373"
+    },
+    {
+      "processo": "936397284",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de bijuteria; Comércio (através de qualquer meio) de roupas; Comércio [através de qualquer meio] de bolsas femininas; Comércio [através de qualquer meio] de calçados; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas…"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "adce471790634d2dce56"
+    },
+    {
+      "processo": "936397233",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "25",
+          "status": "Deferida",
+          "especificacao": "Alpercatas; Artigos de chapelaria; Artigos de malha [vestuário]; Bandanas; Bermudas; Bonés; Calçados*; Camisetas; Chapéus [chapelaria]; Chapéus de papel [vestuário]; Combinações [vestuário]; Faixas [vestuário]; Faixas para a cabeça [vestuário]; Gorros; Malhas [vestuário]; Meias; Vestuário * Viseiras [chapelaria];"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f88a7a772446a1cd0dec"
+    },
+    {
+      "processo": "936397160",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 901191213 (SEPAM) e Processo 818943807 (SEPAM). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Agente artístico; literário e cultural [promotor de evento]; Apresentação de espetáculos ao vivo; Apresentação de espetáculos de variedades; Assessoria, consultoria e informação em entretenimento [lazer]; Cursos livres [ensino]; Desfile de moda somente para entretenimento; Direção de shows; Edição de texto, exceto de publicidade [copidesque]; Elaboração de roteiros [roteirização]; Empresário [organização e produção de espetáculos]; Filmagem em vídeo; Fornecimento de filmes, não baixáveis, através de serviços de vídeo sob demanda; Fotografia; Organização de espetáculos [shows] [serviços de empresário]; Organização de eventos de assunção de personagens [cosplay] para fins de entretenimento; O…"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "246ec5aede855ba53895"
+    },
+    {
+      "processo": "936397071",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de artigos de chapelaria; Comércio (através de qualquer meio) de artigos do vestuário; Comércio (através de qualquer meio) de bijuteria; Comércio (através de qualquer meio) de roupas; Comércio [através de qualquer meio] de bolsas femininas; Comércio [através de qualquer meio] de calçados; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas…"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2fdb5781873b4f25cc48"
+    },
+    {
+      "processo": "936397020",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "INDIO BEHN ENTRETERIMENTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 932717713 (sephan). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "25",
+          "status": "Deferida",
+          "especificacao": "Alpercatas; Artigos de chapelaria; Artigos de malha [vestuário]; Bandanas; Bermudas; Bonés; Calçados*; Camisetas; Chapéus [chapelaria]; Chapéus de papel [vestuário]; Combinações [vestuário]; Faixas [vestuário]; Faixas para a cabeça [vestuário]; Gorros; Malhas [vestuário]; Meias; Vestuário * Viseiras [chapelaria];"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7a985718cfb742b86bc9"
+    },
+    {
+      "processo": "936113677",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3c89ee1c47e4b58e6530"
+    },
+    {
+      "processo": "903670399",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "DUBAI INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS089",
+          "nome": "Exigência de pagamento (em petição)",
+          "texto": "Considerando que o requerente não possui direito ao desconto no valor da retribuição devida, conforme consulta ao banco de dados da Receita Federal, complemente a retribuição devida no exato valor fixado na tabela vigente. Esse procedimento precisa ser realizado em duas etapas: 1) Gere e pague uma GRU de \"Complementação de Retribuição\", sob o código de serviço 800, na unidade ?Administração Geral?, no valor de R$1.500,00, referente à diferença entre a quantia já paga e o valor do serviço correto. A guia de complementação deverá ser vinculada à GRU utilizada no protocolo da petição 800250346308. Siga as orientações do item 3.3.1 do Manual de Marcas, subitem ?Complementação de Retribuições?; 2) Gere e pague uma nova GRU na unidade ?Marcas?, sob o código de serviço 382, referente ao serviço de ?Cumprimento de exigência decorrente de exame de conformidade em petição?. Após o pagamento, efet…"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2888",
+        "data": "2026-05-12"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2888.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2888.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "55988033442b5430e525"
+    },
+    {
+      "processo": "936271680",
+      "dataDeposito": "18/09/2024",
+      "dataConcessao": "05/05/2026",
+      "dataVigencia": "05/05/2036",
+      "marca": {
+        "nome": "STARTEXAS ST",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "STARTEXAS - VIGILANCIA ARMADA, SEGURANÇA E EVENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "45",
+          "status": "Deferida",
+          "especificacao": "Vigilância noturna;Aluguel de extintores de incêndio;Monitoramento e rastreamento de veículos e cargas, contratação de guarda [serviços de segurança] ;Guarda-costas [segurança];Segurança pessoal;Monitorização de alarmes anti-roubo e de segurança;Serviço de vigilância em propriedade intelectual;Segurança (Inspeção de fábricas para fins de - );Organização de grupos de apoio;Abertura de fechaduras de segurança;Guarda noturna;Guardas [vigilância, segurança];Segurança (Consultoria em -);Aluguel de alarmes de incêndio;Inspeção de fábricas para fins de segurança;"
+        }
+      ],
+      "revista": {
+        "numero": "2887",
+        "data": "2026-05-05"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2887.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2887.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "42cf4da42b3fb571c743"
+    },
+    {
+      "processo": "936254742",
+      "dataDeposito": "17/09/2024",
+      "dataConcessao": "05/05/2026",
+      "dataVigencia": "05/05/2036",
+      "marca": {
+        "nome": "FLORAL QUÂNTICA",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "FLORALPHARMA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Manipulação de fórmulas medicinais;Manipulação de produtos fitoterápicos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2887",
+        "data": "2026-05-05"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2887.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2887.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bbcd5f6980a1cd7f7820"
+    },
+    {
+      "processo": "936244348",
+      "dataDeposito": "17/09/2024",
+      "dataConcessao": "05/05/2026",
+      "dataVigencia": "05/05/2036",
+      "marca": {
+        "nome": "AGROPECUÁRIA SÃO ROQUE",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "ARMINDO SCHROPFER",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Criação de animais: produção de matrizes, touros, sêmen e embriões das raças bovinas Braford, Brangus e Hereford. Serviços de agricultura.;"
+        }
+      ],
+      "revista": {
+        "numero": "2887",
+        "data": "2026-05-05"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2887.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2887.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4a96d71d6adea73080e1"
+    },
+    {
+      "processo": "942400275",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "VINICIUS JOEL SCHERER ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS423",
+          "nome": "Notificação de oposição",
+          "texto": "850260089083 de 26/02/2026"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f61f0f03f15a2dcbd470"
+    },
+    {
+      "processo": "942399030",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "VINICIUS JOEL SCHERER ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS423",
+          "nome": "Notificação de oposição",
+          "texto": "850260089085 de 26/02/2026"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7320a72a808741eca1ad"
+    },
+    {
+      "processo": "942065182",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ELISANGELA PFEIFFER TABILLE",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador ESPARTA MARCAS E PATENTES EIRELLI e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "82eab38b3fd1a4e54109"
+    },
+    {
+      "processo": "938814265",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "GABRIEL BARTHELMEBS ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "c07002c3d5e7d90ca791"
+    },
+    {
+      "processo": "936405821",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "LUNE PRODUTORA E AGÊNCIA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Agente artístico; literário e cultural [promotor de evento];Apresentação de espetáculos de variedades;Assessoria, consultoria e informação em entretenimento [lazer];Desfile de moda somente para entretenimento;Edição de texto, exceto de publicidade [copidesque];Empresário [organização e produção de espetáculos];Filmagem em vídeo;Fornecimento de filmes, não baixáveis, através de serviços de video sob demanda;Fotografia;Organização de espetáculos [shows] [serviços de empresário];Organização e realização de eventos de entretenimento;Produção de podcasts;Produção de programas de rádio e televisão;Produção de shows;Produção musical;Produções teatrais;Programas de entretenimento de rádio;Programas…"
+        }
+      ],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7f70b01e6dfeb69dd021"
+    },
+    {
+      "processo": "936113901",
+      "dataDeposito": "05/09/2024",
+      "dataConcessao": "28/04/2026",
+      "dataVigencia": "28/04/2036",
+      "marca": {
+        "nome": "KBMag",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5836d72f013a22b0a1de"
+    },
+    {
+      "processo": "936113456",
+      "dataDeposito": "05/09/2024",
+      "dataConcessao": "28/04/2026",
+      "dataVigencia": "28/04/2036",
+      "marca": {
+        "nome": "DROPP IN",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3df602aa64603686b732"
+    },
+    {
+      "processo": "908413823",
+      "dataDeposito": "08/10/2014",
+      "dataConcessao": "28/03/2017",
+      "dataVigencia": "28/03/2037",
+      "marca": {
+        "nome": "DAPPER",
+        "apresentacao": "Mista",
+        "natureza": "De Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "DAPPER CALCADOS E CONFECCOES LTDA- ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "Catiane Zini Borela"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Comércio (através de qualquer meio) de artigos do vestuário;"
+        }
+      ],
+      "revista": {
+        "numero": "2886",
+        "data": "2026-04-28"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2886.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2886.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1ee6f887e3eede905038"
+    },
+    {
+      "processo": "943193346",
+      "dataDeposito": "27/03/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VITALSEG SEGURANÇA DO TRABALHO E SAÚDE OCUPACIONAL",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VITAL SEG SERVIÇOS DE ELABORAÇÃO DE PROGRAMAS DE SAUDE OCUPACIONAL LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "45",
+          "status": "Pendente",
+          "especificacao": "Adequação de ambiente à norma relacionada à insalubridade [implementação de norma e procedimento relativo à segurança do trabalho];Assessoria, consultoria e informações sobre segurança no trabalho;Consultoria em segurança do trabalho;Consultoria em segurança ocupacional;Projeto na área de segurança do trabalho;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "0c46c3d97baa21c9d318"
+    },
+    {
+      "processo": "943193192",
+      "dataDeposito": "27/03/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "VITALSEG SEGURANÇA DO TRABALHO E SAÚDE OCUPACIONAL",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VITAL SEG SERVIÇOS DE ELABORAÇÃO DE PROGRAMAS DE SAUDE OCUPACIONAL LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Pendente",
+          "especificacao": "Aconselhamento em questões de saúde;Assessoria, consultoria e informação no campo da saúde e da medicina;Assistência médica;Consultas médicas [serviços médicos];Serviços de clínica médica;Serviços de saúde;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "ceea6b3d915d64d624d2"
+    },
+    {
+      "processo": "943185963",
+      "dataDeposito": "26/03/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "DAPPER!",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "DAPPER CALCADOS E CONFECCOES LTDA- ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Comércio [através de qualquer meio] de artigos de chapelaria;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de artigos para ginástica;Comércio [através de qualquer meio] de bolsas femininas;Comércio [através de qualquer meio] de calçados;Comércio [através de qualquer meio] de malas e bolsas de viagem;Comércio [através de qualquer meio] de mochilas;Comércio [através de qualquer meio] de roupas;Comércio on-line, no varejo, de vestuário virtual baixável;Gestão de franquia para terceiros;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Provimento de informações de negócios através de um website;Pr…"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "af1e8e241a194ed3bee9"
+    },
+    {
+      "processo": "943140269",
+      "dataDeposito": "24/03/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "NutreMix",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LOPES DISTRIBUIDORA LTDA.",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Pendente",
+          "especificacao": "Grãos [cereais];Grãos [sementes];Sementes de cereais não processadas;Sementes para plantio;Subprodutos do processamento de cereais, para consumo animal;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "961db6995e2b132289f5"
+    },
+    {
+      "processo": "943140200",
+      "dataDeposito": "24/03/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "NUTRESEED",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LOPES DISTRIBUIDORA LTDA.",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": "Realizada a alteração do elemento nominativo, de acordo com a imagem da marca anexada, em conformidade com o item 4.2.4 do Manual de Marcas."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Pendente",
+          "especificacao": "Grãos [cereais];Grãos [sementes];Sementes de cereais não processadas;Sementes para plantio;Subprodutos do processamento de cereais, para consumo animal;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "512949e762a14d58ec16"
+    },
+    {
+      "processo": "936271680",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "STARTEXAS - VIGILANCIA ARMADA, SEGURANÇA E EVENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "45",
+          "status": "Deferida",
+          "especificacao": "Vigilância noturna;Aluguel de extintores de incêndio;Monitoramento e rastreamento de veículos e cargas, contratação de guarda [serviços de segurança] ;Guarda-costas [segurança];Segurança pessoal;Monitorização de alarmes anti-roubo e de segurança;Serviço de vigilância em propriedade intelectual;Segurança (Inspeção de fábricas para fins de - );Organização de grupos de apoio;Abertura de fechaduras de segurança;Guarda noturna;Guardas [vigilância, segurança];Segurança (Consultoria em -);Aluguel de alarmes de incêndio;Inspeção de fábricas para fins de segurança;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "9016de79979b8672d93a"
+    },
+    {
+      "processo": "936254742",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FLORALPHARMA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Manipulação de fórmulas medicinais;Manipulação de produtos fitoterápicos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5a8eaee4b78e7d3fc974"
+    },
+    {
+      "processo": "936254432",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FLORALPHARMA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS136",
+          "nome": "Exigência de mérito",
+          "texto": "Apresente documentação que comprove o exercício lícito e efetivo de comércio dos medicamentos fitoterápicos e homeopáticos e produtos correlatos incluídos na especificação de serviços do pedido de registro, tendo em vista que o requerente é microempreendedor individual."
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "91a7803d9cf07ccb16c0"
+    },
+    {
+      "processo": "936244348",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ARMINDO SCHROPFER",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Criação de animais: produção de matrizes, touros, sêmen e embriões das raças bovinas Braford, Brangus e Hereford. Serviços de agricultura.;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d393e5e1d777393932bd"
+    },
+    {
+      "processo": "936107499",
+      "dataDeposito": "05/09/2024",
+      "dataConcessao": "22/04/2026",
+      "dataVigencia": "22/04/2036",
+      "marca": {
+        "nome": "PORTO IMPERIAL PI",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "AMS MILANI & CIA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Organização e realização de eventos de entretenimento;Provimento de passeios turísticos virtuais guiados on-line;Serviços de entretenimento;Serviços de viagem simulada providos em ambientes virtuais para fins de entretenimento;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "15358d85b50e9b59ed91"
+    },
+    {
+      "processo": "935968806",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "55.002.167 LARISSA LIBERALESSO",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 911010637 (LJ LARISSA JOIAS). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de bijuteria;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Representação comercial;Serviços de agências de importação-exportação;Comércio através de qualquer meio de Jóias. Comercio através de qualquer meio de acessórios para cabelos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2885",
+        "data": "2026-04-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2885.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2885.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "dd9d551d59b2f9ad9bdc"
+    },
+    {
+      "processo": "936144203",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "IRMÃOS RORATTO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 904939294 (AJR A. J. RORATO) e Processo 828408084 (AJR A. J. RORATO). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "39",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "EMBALAGENS E ARMAZENAMENTO DE PRODUTOS, DESCARREGAMENTO DE CARGAS, ARMAZENAGEM DE MERCADORIAS, DISTRIBUIÇÃO DE MERCADORIA PARA TERCEIROS.;"
+        }
+      ],
+      "revista": {
+        "numero": "2884",
+        "data": "2026-04-14"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2884.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7faf2624321d0d3dab50"
+    },
+    {
+      "processo": "936113901",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2884",
+        "data": "2026-04-14"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2884.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1715ea8f481c2ca4c2b9"
+    },
+    {
+      "processo": "936113456",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "01",
+          "status": "Deferida",
+          "especificacao": "Adubo composto;Fertilizantes;Substâncias químicas para agricultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para horticultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Substâncias químicas para uso na silvicultura, exceto fungicidas, herbicidas, inseticidas e parasiticidas;Adjuvante Agrícola;"
+        }
+      ],
+      "revista": {
+        "numero": "2884",
+        "data": "2026-04-14"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2884.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "74ebf0971afa6876108b"
+    },
+    {
+      "processo": "933702558",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JAIRTON ARAUJO RABELO",
+          "pais": "BR",
+          "uf": "PA"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "Valoriza Consultoria em Propriedade Intelectual EIRELI"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS400",
+          "nome": "Notificação de instauração de processo de nulidade a requerimento",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2884",
+        "data": "2026-04-14"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2884.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "14e5e3e10540fa95040c"
+    },
+    {
+      "processo": "928315444",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "A.L.V. DE OLIVEIRA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Icamp Marcas e Patentes Ltda",
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS400",
+          "nome": "Notificação de instauração de processo de nulidade a requerimento",
+          "texto": "Icamp Marcas e Patentes Ltda"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2884",
+        "data": "2026-04-14"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2884.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2884.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "9cc769f0c0cf0b62e0ed"
+    }
+  ],
+  "lastRun": {
+    "startedAt": "2026-06-18T12:51:38+00:00",
+    "scannedRevistas": 4,
+    "newMatchesThisRun": 35,
+    "pendingNotifications": 96,
+    "errors": [],
+    "monitors": [
+      {
+        "id": "adv-luiz-fernando-soares-costa",
+        "label": "Luiz Fernando Soares Costa",
+        "type": "advogado"
+      },
+      {
+        "id": "adv-ricardo-de-luca-rossetto",
+        "label": "Ricardo de Luca Rossetto",
+        "type": "advogado"
+      },
+      {
+        "id": "marca-pulo-park",
+        "label": "PULÔ PARK",
+        "type": "marca"
+      }
+    ]
+  }
+}

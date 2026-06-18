@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Painel INPI</title>
+    <link rel="stylesheet" href="./assets/styles.css?v=20260618-1" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Seção V - Marcas</p>
+          <h1>Painel INPI</h1>
+        </div>
+        <div class="status-block">
+          <span id="sourceStatus" class="status-pill">Carregando</span>
+          <span id="lastUpdate" class="muted">-</span>
+        </div>
+      </header>
+
+      <section class="toolbar" aria-label="Filtros">
+        <label class="search-control">
+          <span>Busca</span>
+          <input id="searchInput" type="search" placeholder="Marca, processo, advogado, requerente..." autocomplete="off" />
+        </label>
+
+        <label>
+          <span>Monitor</span>
+          <select id="monitorFilter">
+            <option value="all">Todos</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Campo</span>
+          <select id="fieldFilter">
+            <option value="all">Todos</option>
+            <option value="marca">Marca</option>
+            <option value="procurador">Advogado/procurador</option>
+            <option value="requerente">Requerente</option>
+            <option value="despacho">Despacho</option>
+            <option value="classe">Classe</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Ordenação</span>
+          <select id="sortFilter">
+            <option value="recent">Mais recentes</option>
+            <option value="brand">Marca A-Z</option>
+            <option value="process">Processo</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="metrics" aria-label="Resumo">
+        <div class="metric">
+          <span>Ocorrências</span>
+          <strong id="metricMatches">0</strong>
+        </div>
+        <div class="metric">
+          <span>Processos</span>
+          <strong id="metricProcesses">0</strong>
+        </div>
+        <div class="metric">
+          <span>Revistas</span>
+          <strong id="metricRevistas">0</strong>
+        </div>
+        <div class="metric accent">
+          <span>Última RPI</span>
+          <strong id="metricLatest">-</strong>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <aside class="side-panel" aria-label="Monitoramentos">
+          <div class="panel-heading">
+            <h2>Monitoramentos</h2>
+            <span id="monitorCount">0</span>
+          </div>
+          <div id="monitorList" class="monitor-list"></div>
+
+          <div class="run-box">
+            <h2>Última varredura</h2>
+            <dl>
+              <div>
+                <dt>Revistas lidas</dt>
+                <dd id="runScanned">-</dd>
+              </div>
+              <div>
+                <dt>Novidades por e-mail</dt>
+                <dd id="runPending">-</dd>
+              </div>
+              <div>
+                <dt>Falhas</dt>
+                <dd id="runErrors">-</dd>
+              </div>
+            </dl>
+          </div>
+        </aside>
+
+        <section class="results-panel" aria-label="Ocorrências encontradas">
+          <div class="results-heading">
+            <div>
+              <h2>Ocorrências</h2>
+              <span id="resultCount" class="muted">0 registros</span>
+            </div>
+            <button id="resetFilters" class="icon-button" type="button" title="Limpar filtros" aria-label="Limpar filtros">
+              <span aria-hidden="true">↺</span>
+            </button>
+          </div>
+          <div id="resultsList" class="results-list"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <strong>Nenhuma ocorrência encontrada</strong>
+            <span>Os filtros atuais não retornaram registros.</span>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./assets/app.js?v=20260618-1"></script>
+  </body>
+</html>

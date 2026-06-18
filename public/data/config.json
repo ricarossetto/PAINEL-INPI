@@ -1,0 +1,44 @@
+{
+  "notification": {
+    "email": "RICARDO.ROSSETTO.ADV@GMAIL.COM"
+  },
+  "scan": {
+    "initialLimit": 10,
+    "weeklyLimit": 10,
+    "source": "https://revistas.inpi.gov.br/rpi/",
+    "section": "Secao V - Marcas"
+  },
+  "monitors": [
+    {
+      "id": "adv-luiz-fernando-soares-costa",
+      "type": "advogado",
+      "label": "Luiz Fernando Soares Costa",
+      "oab": "OAB/RS 66.379",
+      "terms": [
+        "Luiz Fernando Soares Costa",
+        "OAB/RS 66.379",
+        "OAB RS 66379"
+      ]
+    },
+    {
+      "id": "adv-ricardo-de-luca-rossetto",
+      "type": "advogado",
+      "label": "Ricardo de Luca Rossetto",
+      "oab": "OAB/RS 135.294",
+      "terms": [
+        "Ricardo de Luca Rossetto",
+        "OAB/RS 135.294",
+        "OAB RS 135294"
+      ]
+    },
+    {
+      "id": "marca-pulo-park",
+      "type": "marca",
+      "label": "PULÔ PARK",
+      "terms": [
+        "PULÔ PARK",
+        "PULO PARK"
+      ]
+    }
+  ]
+}
