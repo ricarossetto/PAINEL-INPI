@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-06-18T14:21:23+00:00",
+  "generatedAt": "2026-06-23T22:16:54+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 100,
-    "totalRevistas": 10,
-    "totalProcesses": 83,
+    "totalMatches": 109,
+    "totalRevistas": 11,
+    "totalProcesses": 91,
     "latestRevista": {
-      "numero": "2893",
-      "data": "2026-06-16"
+      "numero": "2894",
+      "data": "2026-06-23"
     }
   },
   "revistas": [
+    {
+      "numero": "2894",
+      "data": "2026-06-23",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2894.zip",
+      "status": "lida",
+      "matchCount": 9
+    },
     {
       "numero": "2893",
       "data": "2026-06-16",
@@ -96,6 +104,514 @@
     }
   ],
   "matches": [
+    {
+      "processo": "943702399",
+      "dataDeposito": "12/05/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "BANDA ESTRELA GUIA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "47.941.610 GILVANE FRIEDRICH THOME DA CRUZ",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Pendente",
+          "especificacao": "Banda de música [serviços de entretenimento];Grupo musical;Produção musical;Serviços de composição musical;"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "44f28553d29d66a57a4f"
+    },
+    {
+      "processo": "943681715",
+      "dataDeposito": "11/05/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "Ela Studio Fitness",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "ELA STUDIO FITNESS",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Pendente",
+          "especificacao": "Assessoria, consultoria e informação em treinamento [demonstração][ensino];Avaliação de aptidão física para fins de treinamento;Ioga e iogaterapia, sendo atividades desenvolvidas em academias de ginástica;Serviços de academia de ginástica [treinamento físico e para a saúde];Serviços de personal trainer [preparo físico];Treinamento físico de alta intensidade com exercícios aeróbicos e anaeróbicos;"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "126a6b9d79bf2cd909da"
+    },
+    {
+      "processo": "943678072",
+      "dataDeposito": "11/05/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "FORGIATECH",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "EZEQUIEL DEBONI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Administração comercial do licenciamento de produtos e serviços de terceiros;Administração comercial para terceiros;Aluguel de máquinas de autosserviço;Assessoria em gestão comercial ou industrial;Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais;Assessoria, consultoria e informação em promoção de vendas;Comércio [através de qualquer meio] de máquinas-ferramentas;Comércio [através de qualquer meio] de produtos de serralharia;Representação comercial de produtos ou serviços de terceiros;"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f2c5e095ec03055fa8d2"
+    },
+    {
+      "processo": "943677629",
+      "dataDeposito": "11/05/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "FORGIATECH",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "EZEQUIEL DEBONI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "07",
+          "status": "Pendente",
+          "especificacao": "Afiador elétrico para instrumento de corte;Aparelhos de corte a arco elétrico;Máquina para triturar ou machucar galho;Máquinas cortadeiras;Máquinas de corte para ajuste de tamanho para fins industriais;Máquinas para rosquear e talhar;Máquinas para trabalhar madeira;Máquinas-ferramentas;Serras [máquinas];"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2db129aa790f1c2b0dd6"
+    },
+    {
+      "processo": "937145475",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "HABITATO SERVICOS E INVESTIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Cursos livres [ensino];Cursos online sobre edição de vídeo, edição de fotos, tráfego pago, filmagem com drones, marketing digital e branding, voltado para profissionais do mercado imobiliário como corretores de imóveis, engenheiros e arquitetos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4c0493af829deb6b360f"
+    },
+    {
+      "processo": "915992485",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BE NICE FABRICAÇÃO DE PRODUTOS DE PADARIA EIRELI ­ ME",
+          "pais": "BR",
+          "uf": "PB"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS669",
+          "nome": "Deferimento da petição de caducidade",
+          "texto": "Por falta de contestação ao requerimento de caducidade, conforme previsto no parágrafo 2º do Artigo 143 da Lei da Propriedade Industrial (LPI, lei n.º 9.279, de 14 de maio de 1996): Parágrafo 2º - O titular será intimado para se manifestar no prazo de 60 (sessenta) dias, cabendo-lhe o ônus de provar o uso da marca ou justificar seu desuso por razões legítimas. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "050202726a36984394a0"
+    },
+    {
+      "processo": "910962448",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FUND CENTROS DE REFERENCIA EM TECNOLOGIAS INOVADORAS",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "GUIMARÃES E SANTIAGO SOCIEDADE DE ADVOGADOS"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS669",
+          "nome": "Deferimento da petição de caducidade",
+          "texto": "Por falta de contestação ao requerimento de caducidade, conforme previsto no parágrafo 2º do Artigo 143 da Lei da Propriedade Industrial (LPI, lei n.º 9.279, de 14 de maio de 1996): Parágrafo 2º - O titular será intimado para se manifestar no prazo de 60 (sessenta) dias, cabendo-lhe o ônus de provar o uso da marca ou justificar seu desuso por razões legítimas. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "655528e3ce6b77be0190"
+    },
+    {
+      "processo": "905633326",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "RADIO CIRANDA DE CHIAPETTA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS428",
+          "nome": "Decisão de não conhecer da petição",
+          "texto": "Art. 219. Não serão conhecidos a petição, a oposição e o recurso, quando: I - apresentados fora do prazo previsto nesta Lei; Luiz Fernando Soares Costa"
+        },
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador ARGEMIRO MATIAS DE OLIVEIRA e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4591bb0072f45c5e6df8"
+    },
+    {
+      "processo": "824188292",
+      "dataDeposito": "28/11/2001",
+      "dataConcessao": "17/04/2007",
+      "dataVigencia": "17/04/2037",
+      "marca": {
+        "nome": "W WIDITEC",
+        "apresentacao": "Mista",
+        "natureza": "De Produto"
+      },
+      "requerentes": [
+        {
+          "nome": "DETEC CONTROLADORIA E INVESTIMENTOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Deferida",
+          "especificacao": "( CONEXÕES ELÉTRICAS, DUTOS ELÉTRICOS, FIOS ELÉTRICOS, DISJUNTORES, CABOS ELÉTRICOS, CONECTORES (ELETRICIDADE), CONDUTORES ELÉTRICOS, CONDUTORES DE ELETRICIDADE (ELETRODUTOS));"
+        }
+      ],
+      "revista": {
+        "numero": "2894",
+        "data": "2026-06-23"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2894.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2894.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1a966c3cb2eacf77bf39"
+    },
     {
       "processo": "943676681",
       "dataDeposito": "11/05/2026",
@@ -5659,7 +6175,7 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-06-18T14:21:23+00:00",
+    "startedAt": "2026-06-23T22:16:54+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 9,
     "pendingNotifications": 0,
