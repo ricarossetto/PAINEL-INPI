@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-06-23T22:16:54+00:00",
+  "generatedAt": "2026-06-30T22:16:30+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 109,
-    "totalRevistas": 11,
-    "totalProcesses": 91,
+    "totalMatches": 114,
+    "totalRevistas": 12,
+    "totalProcesses": 96,
     "latestRevista": {
-      "numero": "2894",
-      "data": "2026-06-23"
+      "numero": "2895",
+      "data": "2026-06-30"
     }
   },
   "revistas": [
+    {
+      "numero": "2895",
+      "data": "2026-06-30",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2895.zip",
+      "status": "lida",
+      "matchCount": 5
+    },
     {
       "numero": "2894",
       "data": "2026-06-23",
@@ -104,6 +112,283 @@
     }
   ],
   "matches": [
+    {
+      "processo": "937274380",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CORREA E CORREA REPRESENTACOES COMERCIAIS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de artigos do vestuário;Comércio [através de qualquer meio] de calçados;Comércio on-line, no varejo, de vestuário virtual baixável;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Rep…"
+        }
+      ],
+      "revista": {
+        "numero": "2895",
+        "data": "2026-06-30"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2895.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "714613e545dd43923756"
+    },
+    {
+      "processo": "937231711",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MARCEL LOPES VIEIRA ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "20",
+          "status": "Deferida",
+          "especificacao": "Arquivos [móveis];Bancadas de tornos [móveis];Bancos [móveis];Divisórias de madeira para móveis;Estantes [móveis];Gavetas para móveis;Móveis para escritório;Móveis planejados;"
+        }
+      ],
+      "revista": {
+        "numero": "2895",
+        "data": "2026-06-30"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2895.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "cc4b9290919d70624a24"
+    },
+    {
+      "processo": "935785957",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "AGENCIA FAROL LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "Recurso contra o indeferimento. Nícolas Fernando Barbosa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2895",
+        "data": "2026-06-30"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2895.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8ee511522d547f4bcbb5"
+    },
+    {
+      "processo": "928790517",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS237",
+          "nome": "Recurso provido (decisão reformada para: Deferimento)",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "39",
+          "status": "Deferida",
+          "especificacao": "TRANSPORTE, EMBALAGENS E ARMAZENAMENTO DE PRODUTOS, DESCARREGAMENTO DE CARGAS, SERVIÇO DE LOGÍSTICA EM MATÉRIA DE TRANSPORTE, ARMAZENAGEM DE MERCADORIAS, DISTRIBUIÇÃO DE MERCADORIA PARA TERCEIROS, TRANSPORTE RODOVIÁRIO DE CARGAS INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL. SERVIÇOS DE EXPEDIÇÃO DE GRÃOS.;"
+        }
+      ],
+      "revista": {
+        "numero": "2895",
+        "data": "2026-06-30"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2895.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "92e088a66a8f68ea2122"
+    },
+    {
+      "processo": "825003792",
+      "dataDeposito": "25/09/2002",
+      "dataConcessao": "02/05/2007",
+      "dataVigencia": "02/05/2037",
+      "marca": {
+        "nome": "OKEI SANFONINHA",
+        "apresentacao": "Mista",
+        "natureza": "De Produto"
+      },
+      "requerentes": [
+        {
+          "nome": "INDÚSTRIA DE PRODUTOS ALIMENTÍCIOS OK LTDA.",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "30",
+          "status": "Deferida",
+          "especificacao": "FARINÁCEOS ( ALIMENTOS -); FARINHA DE MILHO; FARINHAS PARA USO ALIMENTAR; FLOCOS DE MILHO; GOMAS DE MASCAR, EXCETO PARA USO MEDICINAL; MILHO MOIDO; MILHO PARA PIPOCA; PAPAS DE FARINHA ALIMENTARES À BASE DE LEITE [ MINGAU ];"
+        }
+      ],
+      "revista": {
+        "numero": "2895",
+        "data": "2026-06-30"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2895.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2895.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "b970bb51f30b3d93637d"
+    },
     {
       "processo": "943702399",
       "dataDeposito": "12/05/2026",
@@ -6175,9 +6460,9 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-06-23T22:16:54+00:00",
+    "startedAt": "2026-06-30T22:16:30+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 9,
+    "newMatchesThisRun": 5,
     "pendingNotifications": 0,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
