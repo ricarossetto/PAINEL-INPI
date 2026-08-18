@@ -1,19 +1,28 @@
 {
-  "generatedAt": "2026-07-14T21:59:46+00:00",
+  "generatedAt": "2026-08-18T21:26:16+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
     "totalMatches": 129,
-    "totalRevistas": 13,
+    "totalRevistas": 14,
     "totalProcesses": 106,
     "latestRevista": {
-      "numero": "2897",
-      "data": "2026-07-14"
+      "numero": "2902",
+      "data": "2026-08-18"
     }
   },
   "revistas": [
+    {
+      "numero": "2902",
+      "data": "2026-08-18",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2902.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2902.zip",
+      "status": "erro",
+      "error": "reference to invalid character number: line 465745, column 60",
+      "matchCount": 0
+    },
     {
       "numero": "2897",
       "data": "2026-07-14",
@@ -7308,14 +7317,19 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-07-14T21:59:46+00:00",
+    "startedAt": "2026-08-18T21:26:16+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 15,
+    "newMatchesThisRun": 0,
     "pendingNotifications": 0,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
     ],
-    "errors": [],
+    "errors": [
+      {
+        "revista": "2902",
+        "message": "reference to invalid character number: line 465745, column 60"
+      }
+    ],
     "monitors": [
       {
         "id": "adv-luiz-fernando-soares-costa",
