@@ -1,19 +1,28 @@
 {
-  "generatedAt": "2026-08-18T21:26:16+00:00",
+  "generatedAt": "2026-08-25T21:30:19+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
     "totalMatches": 129,
-    "totalRevistas": 14,
+    "totalRevistas": 15,
     "totalProcesses": 106,
     "latestRevista": {
-      "numero": "2902",
-      "data": "2026-08-18"
+      "numero": "2903",
+      "data": "2026-08-25"
     }
   },
   "revistas": [
+    {
+      "numero": "2903",
+      "data": "2026-08-25",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2903.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2903.zip",
+      "status": "erro",
+      "error": "reference to invalid character number: line 766911, column 1216",
+      "matchCount": 0
+    },
     {
       "numero": "2902",
       "data": "2026-08-18",
@@ -7317,7 +7326,7 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-08-18T21:26:16+00:00",
+    "startedAt": "2026-08-25T21:30:19+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 0,
     "pendingNotifications": 0,
@@ -7326,8 +7335,8 @@
     ],
     "errors": [
       {
-        "revista": "2902",
-        "message": "reference to invalid character number: line 465745, column 60"
+        "revista": "2903",
+        "message": "reference to invalid character number: line 766911, column 1216"
       }
     ],
     "monitors": [
