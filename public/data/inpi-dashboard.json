@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-09-01T23:06:14+00:00",
+  "generatedAt": "2026-09-15T23:27:08+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 135,
-    "totalRevistas": 16,
-    "totalProcesses": 112,
+    "totalMatches": 151,
+    "totalRevistas": 17,
+    "totalProcesses": 127,
     "latestRevista": {
-      "numero": "2904",
-      "data": "2026-09-01"
+      "numero": "2906",
+      "data": "2026-09-15"
     }
   },
   "revistas": [
+    {
+      "numero": "2906",
+      "data": "2026-09-15",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2906.zip",
+      "status": "lida",
+      "matchCount": 16
+    },
     {
       "numero": "2904",
       "data": "2026-09-01",
@@ -146,6 +154,924 @@
     }
   ],
   "matches": [
+    {
+      "processo": "944970281",
+      "dataDeposito": "26/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "TAIMAK PACKING TECHNOLOGY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Pendente",
+          "especificacao": "Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para terceiros;Automação industrial [desenvolvimento, instalação e manutenção de sistemas];Desenvolvimento de plataformas de computador;Instalação de software de computador;Manutenção de software de computador;Plataforma computacional como serviço [paas];Projeto de engenharia industrial;Projeto de engenharia metalúrgica;Projetos de automação industrial;Realização de estudos para projetos técnicos;Software como serviço [saas];"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a72c826d6668dc1cb6e0"
+    },
+    {
+      "processo": "944970117",
+      "dataDeposito": "26/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "TAIMAK PACKING TECHNOLOGY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Pendente",
+          "especificacao": "Aplicativos, baixáveis;Softwares de computador, gravados;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4c745018896bd7b3872c"
+    },
+    {
+      "processo": "944964028",
+      "dataDeposito": "25/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "TAIMAK PACKING TECHNOLOGY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente",
+          "especificacao": "Automação industrial [instalação e manutenção de máquinas];Instalação, manutenção e reparo de máquinas;Recondicionamento de máquinas desgastadas ou parcialmente destruídas;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "16a720f0e5a0a79b42fb"
+    },
+    {
+      "processo": "944963854",
+      "dataDeposito": "25/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "TAIMAK PACKING TECHNOLOGY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Comércio [através de qualquer meio] de aparelhos e instrumentos de controle [inspeção];Comércio [através de qualquer meio] de máquinas distribuidoras automáticas;Comércio [através de qualquer meio] de máquinas-ferramentas;Gestão de franquia para terceiros;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Provimento de informações de negócios através de um website;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Representação comercial de produtos ou serviços de terceiros;Venda e licenciamento de franchising [tratando-se de administração de negócios em franchising];"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "842a28c10381c0ef31cf"
+    },
+    {
+      "processo": "944963650",
+      "dataDeposito": "25/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "TAIMAK PACKING TECHNOLOGY",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "07",
+          "status": "Pendente",
+          "especificacao": "Máquina injetora;Máquinas amassadeiras;Máquinas cortadeiras;Máquinas de corte para ajuste de tamanho para fins industriais;Máquinas empacotadoras;Máquinas envasadoras;Máquinas manipuladoras industriais, automáticas;Máquinas para bater;Máquinas para empacotamento;Máquinas para encher garrafas;Máquinas para enchimento;Máquinas para furar;Máquinas para moagem de farinha;Máquinas para sucção para uso industrial;Máquinas para tampar garrafas;Máquinas para vedar;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8023322f0d4f2b364175"
+    },
+    {
+      "processo": "944945864",
+      "dataDeposito": "24/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "MIGLIORINI",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MIGLIORINI & MIGLIORINI LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Comércio [através de qualquer meio] de alimentos para animais;Comércio [através de qualquer meio] de instrumentos agrícolas não manuais;Comércio [através de qualquer meio] de preparações veterinárias;Comércio [através de qualquer meio] de produtos alimentícios [grãos];Comércio [através de qualquer meio] de produtos para a destruição dos animais nocivos, fungicidas e herbicidas;Comércio [através de qualquer meio] de sementes;Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;Gestão de franquia para terceiros;Representação comercial de produtos ou serviços de terceiros;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "aad942baa0d8194b73a9"
+    },
+    {
+      "processo": "944943616",
+      "dataDeposito": "24/08/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "D´MIGLIORI",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VINO D MIGLIORI LTDA",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "33",
+          "status": "Pendente",
+          "especificacao": "Vinho;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "68dac5c2dad4ffecf320"
+    },
+    {
+      "processo": "938701053",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Aluguel de acomodação em viagens;Aluguel de acomodações temporárias;Assessoria, consultoria e informação em viagens [alojamento e reservas];Camping [provimento de acomodações];Churrascaria [restaurante];Colônia de férias [alojamento];Cyber café [fornecimento de comida e bebida];Provimento de acomodações em acampamento;Reservas de acomodações temporárias;Reservas em hotéis;Reservas em pensões [alojamento];Serviço de bufê;Serviços de acomodação em hotel;Serviços de acomodação, em casas, para turistas;Serviços de agências de acomodações [hotéis, pensões];Serviços de bar;Serviços de cafés [bares];Serviços de cafeteria;Serviços de cantinas;Serviços de lanchonetes;Serviços de recepção para acomod…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5fdad437421727619969"
+    },
+    {
+      "processo": "938698486",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Serviços de entretenimento, nomeadamente operação de parques de diversões com trampolins; fornecimento de instalações recreativas para atividades esportivas e de lazer para crianças e adultos; organização e realização de festas de aniversário e eventos de entretenimento; Academias [educação];Aluguel de brinquedos; Aluguel de equipamento de jogos; Aluguel de equipamento de lazer; Aluguel de simuladores de treinamento; Apresentação de espetáculos ao vivo; Assessoria, consultoria e informação em atividades desportivas e culturais; Assessoria, consultoria e informação em educação [instrução];Assessoria, consultoria e informação em educação física; Assessoria, consultoria e informação em entrete…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "11f4eb099abfd0e10f13"
+    },
+    {
+      "processo": "938698249",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Administração de empresa; Apresentação de produtos em meios de comunicação para fins de comércio varejista; Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros; Assessoria e consultoria em marketing relativas a logística de distribuição comercial de terceiros; Assessoria em gestão comercial ou industrial; Assessoria, consultoria e informações sobre franchising [gestão comercial];Auxílio em gestão de negócios; Consultoria em gestão de negócios; Gerenciamento de banco de dados; Gestão administrativa terceirizada para empresas; Implantação de programa de co…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2f9897b0388b59bb7ebe"
+    },
+    {
+      "processo": "938685244",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "SINUELO COMÉRCIO DE INSUMOS AGRICOLAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Treinamento; provimento de informações sobre agricultura [instrução], visando maior produtividade da lavoura. Organização de espetáculos, como congressos e feiras, Atividades de educação e treinamento, como escolas, cursos, seminários e workshops, Eventos esportivos e culturais, como conferências, exposições e festivais. Assessoria, consultoria e informação em treinamento [demonstração][ensino] Organização e apresentação de oficinas de trabalho [treinamento] Organização e realização de eventos de entretenimento Orientação [treinamento] Serviços prestados por entidades de representação de classe, a saber, apresentação de cursos, treinamentos, palestras e seminários Treinamento prático [demon…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "87046fd98d3fb1312ec3"
+    },
+    {
+      "processo": "938628348",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO COMERCIO DE MAQUINAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "07",
+          "status": "Deferida",
+          "especificacao": "Máquinas agrícolas;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "abd5f57ce1b606eba8a8"
+    },
+    {
+      "processo": "938612786",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JMQ DA VEIGA SOCIEDADE UNIPESSOAL LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Excluído do item da especificação ?Serviços prestados por entidades de representação de classe, a saber, serviços de captação de recursos financeiros para seus associados? o trecho ?Serviços prestados por entidades de representação de classe, a saber,?, tendo em vista a natureza jurídica do requerente, por não se tratar de entidade de representação de classe;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação em crédito;Assessoria, consultoria e informação em seguros;Provimento de informações sobre seguros;Seguros;Agente autônomo de investimento; Assessoria e consultoria técnica em: linhas de crédito, administração de investimentos de terceiros, informação bancária, administração de dívidas, administração de riscos financeiros, crédito, empréstimos, investimentos, planejamento financeiro, especializada em matéria de previdência privada , sobre atuaria [avaliação e administração de riscos]; avaliação financeira de ativos de propriedade intelectual; serviços financeiros de banco comercial, banco de desenvolvimento, banco de investimento, banco múltiplo com ou s…"
+        },
+        {
+          "codigo": "36",
+          "status": "Excluída",
+          "especificacao": "Serviços prestados por entidades de representação de classe, a saber,;"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "00828c1f5ac7ecc521b6"
+    },
+    {
+      "processo": "938612247",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "JMQ DA VEIGA SOCIEDADE UNIPESSOAL LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 903835487 (INVENTO PROPAGANDA). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Administração de cartão de benefícios comerciais [promoção de negócios]; Administração de cartão de desconto; Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Comércio (através de qualquer meio) de assessoria financeira; Comparação de preços; Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições administração de negócios]; Gerenciamento de banco de dados; Gestão de franquia; Gestão interina de negócios; Investigaçõe…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "c3980a57320416299fdc"
+    },
+    {
+      "processo": "937429791",
+      "dataDeposito": "18/12/2024",
+      "dataConcessao": "15/09/2026",
+      "dataVigencia": "15/09/2036",
+      "marca": {
+        "nome": "DELA CALÇADOS E CONFECÇÕES",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "KATRINNI DA ROSA POERSCHKE",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet; Assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia; Comércio [através de qualquer meio] de artigos de chapelaria; Comércio [através de qualquer meio] de artigos de joalheria; Comércio [através de qualquer meio] de artigos do vestuário; Comércio [através de qualquer meio] de bijuteria; Comércio [através de qualquer meio] de bolsas femininas; Comércio [através de qualquer meio] de calçados; Comércio [através de qualquer meio] de mochilas; Comércio [através de qualquer meio] d…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d2950738a166520eb7b3"
+    },
+    {
+      "processo": "903670399",
+      "dataDeposito": "23/05/2011",
+      "dataConcessao": "26/07/2016",
+      "dataVigencia": "26/07/2036",
+      "marca": {
+        "nome": "DUBAI",
+        "apresentacao": "Mista",
+        "natureza": "De Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "DUBAI INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Comércio (através de qualquer meio) de alimentos para animais;Comércio (através de qualquer meio) de alimentos para animais[ Informação, Assessoria, Consultoria ];Importação-exportação (Agências de -);Importação-exportação (Agências de -)[ Informação, Assessoria, Consultoria ];Comércio (através de qualquer meio) de produtos alimentícios;Comércio (através de qualquer meio) de produtos alimentícios[ Informação, Assessoria, Consultoria ];"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "21aade5e8226982d9df4"
+    },
     {
       "processo": "944733441",
       "dataDeposito": "07/08/2026",
@@ -7666,10 +8592,10 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-09-01T23:06:14+00:00",
+    "startedAt": "2026-09-15T23:27:08+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 6,
-    "pendingNotifications": 0,
+    "newMatchesThisRun": 16,
+    "pendingNotifications": 3,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
     ],

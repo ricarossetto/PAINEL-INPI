@@ -1,4 +1,176 @@
 {
-  "generatedAt": "2026-09-01T23:06:14+00:00",
-  "matches": []
+  "generatedAt": "2026-09-15T23:27:08+00:00",
+  "matches": [
+    {
+      "processo": "938701053",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Aluguel de acomodação em viagens;Aluguel de acomodações temporárias;Assessoria, consultoria e informação em viagens [alojamento e reservas];Camping [provimento de acomodações];Churrascaria [restaurante];Colônia de férias [alojamento];Cyber café [fornecimento de comida e bebida];Provimento de acomodações em acampamento;Reservas de acomodações temporárias;Reservas em hotéis;Reservas em pensões [alojamento];Serviço de bufê;Serviços de acomodação em hotel;Serviços de acomodação, em casas, para turistas;Serviços de agências de acomodações [hotéis, pensões];Serviços de bar;Serviços de cafés [bares];Serviços de cafeteria;Serviços de cantinas;Serviços de lanchonetes;Serviços de recepção para acomod…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5fdad437421727619969"
+    },
+    {
+      "processo": "938698486",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Serviços de entretenimento, nomeadamente operação de parques de diversões com trampolins; fornecimento de instalações recreativas para atividades esportivas e de lazer para crianças e adultos; organização e realização de festas de aniversário e eventos de entretenimento; Academias [educação];Aluguel de brinquedos; Aluguel de equipamento de jogos; Aluguel de equipamento de lazer; Aluguel de simuladores de treinamento; Apresentação de espetáculos ao vivo; Assessoria, consultoria e informação em atividades desportivas e culturais; Assessoria, consultoria e informação em educação [instrução];Assessoria, consultoria e informação em educação física; Assessoria, consultoria e informação em entrete…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "11f4eb099abfd0e10f13"
+    },
+    {
+      "processo": "938698249",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Administração de empresa; Apresentação de produtos em meios de comunicação para fins de comércio varejista; Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros; Assessoria e consultoria em marketing relativas a logística de distribuição comercial de terceiros; Assessoria em gestão comercial ou industrial; Assessoria, consultoria e informações sobre franchising [gestão comercial];Auxílio em gestão de negócios; Consultoria em gestão de negócios; Gerenciamento de banco de dados; Gestão administrativa terceirizada para empresas; Implantação de programa de co…"
+        }
+      ],
+      "revista": {
+        "numero": "2906",
+        "data": "2026-09-15"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2906.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2906.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2f9897b0388b59bb7ebe"
+    }
+  ]
 }
