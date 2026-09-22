@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-09-15T23:27:08+00:00",
+  "generatedAt": "2026-09-22T23:31:24+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 151,
-    "totalRevistas": 17,
-    "totalProcesses": 127,
+    "totalMatches": 159,
+    "totalRevistas": 18,
+    "totalProcesses": 135,
     "latestRevista": {
-      "numero": "2906",
-      "data": "2026-09-15"
+      "numero": "2907",
+      "data": "2026-09-22"
     }
   },
   "revistas": [
+    {
+      "numero": "2907",
+      "data": "2026-09-22",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2907.zip",
+      "status": "lida",
+      "matchCount": 8
+    },
     {
       "numero": "2906",
       "data": "2026-09-15",
@@ -154,6 +162,462 @@
     }
   ],
   "matches": [
+    {
+      "processo": "938685023",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "SINUELO COMÉRCIO DE INSUMOS AGRICOLAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 933532709 (AGRONOITE). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação em treinamento [demonstração][ensino];Organização e apresentação de oficinas de trabalho [treinamento];Organização e realização de eventos de entretenimento; Orientação [treinamento];Serviços prestados por entidades de representação de classe, a saber, apresentação de cursos, treinamentos, palestras e seminários; Treinamento prático [demonstração];Treinamento; provimento de informações sobre agricultura [instrução], visando maior produtividade da lavoura. Organização de espetáculos, como congressos e feiras, Atividades de educação e treinamento, como escolas, cursos, seminários e workshops, Eventos esportivos e culturais, como conferências, exposições e…"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e7c9568a038788ffd024"
+    },
+    {
+      "processo": "938662880",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO COMERCIO DE MAQUINAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS136",
+          "nome": "Exigência de mérito",
+          "texto": "Reapresente a especificação, tendo em vista a mesma abranger mais de uma classe. Como exemplo, esclareça se deseja permanecer na Classe 37 para \"Concessionária de veículos [reparo/assistência técnica para veículos];Manutenção, reparo, conserto e instalação de máquinas e implementos agrícolas [desde que incluído nesta classe]; Concessionário de máquinas e implementos agrícolas [reparo/assistência técnica];\" ou alterar para a Classe 35 para \"Concessionário de máquinas e implementos agrícolas [comércio]\". Cumpra na NCL observando os exemplos listados na classificação internacional e nas listas auxiliares, disponíveis no portal do INPI (www.inpi.gov.br), lembrando que cada pedido de registro de marca deve estar enquadrado em apenas uma classe de produto/serviço e não é possível ampliar o escopo da especificação."
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "60f0fc4c2857c545eb89"
+    },
+    {
+      "processo": "938649809",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Organização de feiras de negócios;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Representação comercial;Serviços de agê…"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e556a1caf30da3f69e11"
+    },
+    {
+      "processo": "938649485",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BRUNO RAFAEL CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Alterada a especificação originalmente requisitada para melhor adequação dos itens assinalados, em atenção ao disposto no Manual de Marcas, item 5.4.1. Foram excluídos: ?Assessoria e consultoria Agronômica; Gestão e planejamento das atividades agrícolas? por serem da classe 44; \"Gestão de propriedades e inovação tecnológica\" por \"gestão de propriedade\" ser da classe 36 e gestão de inovação tecnológica ser da classe 42. A alteração não enseja republicação, tal qual orienta o Manual de Marcas, item 5.19.6."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Excluída",
+          "especificacao": "Assessoria e consultoria Agronômica; Gestão e planejamento das atividades agrícolas; Gestão de propriedades e inovação tecnológica.;"
+        },
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de instrumentos agrícolas não manuais;Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de…"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "518ddcccb50162f32128"
+    },
+    {
+      "processo": "938648527",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Excluído da especificação serviço não pertencente à classe originalmente reivindicada."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Organização e realização de eventos de entretenimento;[treinamento]; Organização de espetáculos, como congressos e feiras, Atividades de educação e treinamento, como escolas, cursos, seminários e workshops, Eventos esportivos e culturais, como conferências, exposições e festivais. Promoção de eventos de negócios.;"
+        },
+        {
+          "codigo": "41",
+          "status": "Excluída",
+          "especificacao": "provimento de informações sobre agricultura [instrução], visando maior produtividade da lavoura.;"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "9cdd7424c830450c37a8"
+    },
+    {
+      "processo": "938143719",
+      "dataDeposito": "24/02/2025",
+      "dataConcessao": "22/09/2026",
+      "dataVigencia": "22/09/2036",
+      "marca": {
+        "nome": "DEMOLICAR",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "DIOGO RAFAEL ANTUNES QUEIROZ",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Locutor de eventos;Organização e realização de eventos de entretenimento;Sonorização de eventos para empresas e similares;"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a74f89cb8ffa4d722cd5"
+    },
+    {
+      "processo": "930512057",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "DE CAA NATURAIS",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Nícolas Fernando Barbosa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "Recurso contra o indeferimento. Nícolas Fernando Barbosa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-nicolas-fernando-barbosa",
+          "label": "Nícolas Fernando Barbosa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Nicolas Fernando Barbosa",
+            "Nícolas Fernando Barbosa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "176a2c03acc431c08169"
+    },
+    {
+      "processo": "928283135",
+      "dataDeposito": "07/10/2022",
+      "dataConcessao": "22/09/2026",
+      "dataVigencia": "22/09/2036",
+      "marca": {
+        "nome": "BOX GARDEN",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "ALIEVI EMPREENDIMENTOS IMOBILIARIOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Serviços de bar;Serviços de cafés [bares];Serviços de restaurantes;Serviços de restaurantes de autosserviço;serviços de restaurantes para retirada.;"
+        }
+      ],
+      "revista": {
+        "numero": "2907",
+        "data": "2026-09-22"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2907.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2907.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "ad337844ce19ae5b5c36"
+    },
     {
       "processo": "944970281",
       "dataDeposito": "26/08/2026",
@@ -8592,9 +9056,9 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-09-15T23:27:08+00:00",
+    "startedAt": "2026-09-22T23:31:24+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 16,
+    "newMatchesThisRun": 8,
     "pendingNotifications": 3,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
