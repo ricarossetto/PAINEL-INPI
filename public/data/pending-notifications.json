@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-09-22T23:31:24+00:00",
+  "generatedAt": "2026-09-30T00:06:38+00:00",
   "matches": [
+    {
+      "processo": "938701053",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Aluguel de acomodação em viagens;Aluguel de acomodações temporárias;Assessoria, consultoria e informação em viagens [alojamento e reservas];Camping [provimento de acomodações];Churrascaria [restaurante];Colônia de férias [alojamento];Cyber café [fornecimento de comida e bebida];Provimento de acomodações em acampamento;Reservas de acomodações temporárias;Reservas em hotéis;Reservas em pensões [alojamento];Serviço de bufê;Serviços de acomodação em hotel;Serviços de acomodação, em casas, para turistas;Serviços de agências de acomodações [hotéis, pensões];Serviços de bar;Serviços de cafés [bares];Serviços de cafeteria;Serviços de cantinas;Serviços de lanchonetes;Serviços de recepção para acomod…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "9cdb4fefe96a67f51927"
+    },
+    {
+      "processo": "938698486",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Serviços de entretenimento, nomeadamente operação de parques de diversões com trampolins; fornecimento de instalações recreativas para atividades esportivas e de lazer para crianças e adultos; organização e realização de festas de aniversário e eventos de entretenimento; Academias [educação];Aluguel de brinquedos; Aluguel de equipamento de jogos; Aluguel de equipamento de lazer; Aluguel de simuladores de treinamento; Apresentação de espetáculos ao vivo; Assessoria, consultoria e informação em atividades desportivas e culturais; Assessoria, consultoria e informação em educação [instrução];Assessoria, consultoria e informação em educação física; Assessoria, consultoria e informação em entrete…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "6e0a66db6a0dd2c580b9"
+    },
+    {
+      "processo": "938698249",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Administração de empresa; Apresentação de produtos em meios de comunicação para fins de comércio varejista; Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros; Assessoria e consultoria em marketing relativas a logística de distribuição comercial de terceiros; Assessoria em gestão comercial ou industrial; Assessoria, consultoria e informações sobre franchising [gestão comercial];Auxílio em gestão de negócios; Consultoria em gestão de negócios; Gerenciamento de banco de dados; Gestão administrativa terceirizada para empresas; Implantação de programa de co…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "769914ec0c7c811c5b71"
+    },
     {
       "processo": "938701053",
       "dataDeposito": "",

@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-09-22T23:31:24+00:00",
+  "generatedAt": "2026-09-30T00:06:38+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 159,
-    "totalRevistas": 18,
-    "totalProcesses": 135,
+    "totalMatches": 170,
+    "totalRevistas": 19,
+    "totalProcesses": 143,
     "latestRevista": {
-      "numero": "2907",
-      "data": "2026-09-22"
+      "numero": "2908",
+      "data": "2026-09-29"
     }
   },
   "revistas": [
+    {
+      "numero": "2908",
+      "data": "2026-09-29",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2908.zip",
+      "status": "lida",
+      "matchCount": 11
+    },
     {
       "numero": "2907",
       "data": "2026-09-22",
@@ -162,6 +170,644 @@
     }
   ],
   "matches": [
+    {
+      "processo": "945178727",
+      "dataDeposito": "11/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "SEITAI EQUILLIBRIUM",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "SEI TAI EQUILLIBRIUM LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "08",
+          "status": "Pendente",
+          "especificacao": "Ferramentas manuais;"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "957508ed3a7c8a111141"
+    },
+    {
+      "processo": "938703501",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "SANDRO BERNARDES PINOS CERVEJARIA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 910943419 (CERVEJA ARTESANAL CONFRARIA). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "32",
+          "status": "Deferida",
+          "especificacao": "CHOPP ARTESANAL.;"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d492dad329ead56c86ed"
+    },
+    {
+      "processo": "938701053",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Aluguel de acomodação em viagens;Aluguel de acomodações temporárias;Assessoria, consultoria e informação em viagens [alojamento e reservas];Camping [provimento de acomodações];Churrascaria [restaurante];Colônia de férias [alojamento];Cyber café [fornecimento de comida e bebida];Provimento de acomodações em acampamento;Reservas de acomodações temporárias;Reservas em hotéis;Reservas em pensões [alojamento];Serviço de bufê;Serviços de acomodação em hotel;Serviços de acomodação, em casas, para turistas;Serviços de agências de acomodações [hotéis, pensões];Serviços de bar;Serviços de cafés [bares];Serviços de cafeteria;Serviços de cantinas;Serviços de lanchonetes;Serviços de recepção para acomod…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "9cdb4fefe96a67f51927"
+    },
+    {
+      "processo": "938698486",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Serviços de entretenimento, nomeadamente operação de parques de diversões com trampolins; fornecimento de instalações recreativas para atividades esportivas e de lazer para crianças e adultos; organização e realização de festas de aniversário e eventos de entretenimento; Academias [educação];Aluguel de brinquedos; Aluguel de equipamento de jogos; Aluguel de equipamento de lazer; Aluguel de simuladores de treinamento; Apresentação de espetáculos ao vivo; Assessoria, consultoria e informação em atividades desportivas e culturais; Assessoria, consultoria e informação em educação [instrução];Assessoria, consultoria e informação em educação física; Assessoria, consultoria e informação em entrete…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "6e0a66db6a0dd2c580b9"
+    },
+    {
+      "processo": "938698249",
+      "dataDeposito": "09/04/2025",
+      "dataConcessao": "29/09/2026",
+      "dataVigencia": "29/09/2036",
+      "marca": {
+        "nome": "Pulô Park",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "U&S COMPANY LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Ricardo De Luca Rossetto"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Administração de empresa; Apresentação de produtos em meios de comunicação para fins de comércio varejista; Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional];Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros; Assessoria e consultoria em marketing relativas a logística de distribuição comercial de terceiros; Assessoria em gestão comercial ou industrial; Assessoria, consultoria e informações sobre franchising [gestão comercial];Auxílio em gestão de negócios; Consultoria em gestão de negócios; Gerenciamento de banco de dados; Gestão administrativa terceirizada para empresas; Implantação de programa de co…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-ricardo-de-luca-rossetto",
+          "label": "Ricardo de Luca Rossetto",
+          "type": "advogado",
+          "matchedTerms": [
+            "Ricardo de Luca Rossetto"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        },
+        {
+          "id": "marca-pulo-park",
+          "label": "PULÔ PARK",
+          "type": "marca",
+          "matchedTerms": [
+            "PULO PARK",
+            "PULÔ PARK"
+          ],
+          "fields": [
+            "marca"
+          ]
+        }
+      ],
+      "id": "769914ec0c7c811c5b71"
+    },
+    {
+      "processo": "938162357",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "LIDIANE RITTER DE MORAES 02844824048",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 937713902 (Pampa Representações). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de artigos de joalheria;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Representação…"
+        }
+      ],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "371ac2e5a1823a261417"
+    },
+    {
+      "processo": "915151677",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA- EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Catiane Zini Borela e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "7bdaae040d3cd22eb858"
+    },
+    {
+      "processo": "915151650",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA- EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Catiane Zini Borela e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "d7d070790692d21c206f"
+    },
+    {
+      "processo": "915151634",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA- EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Catiane Zini Borela e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "bd0e191df96aab98bb53"
+    },
+    {
+      "processo": "912751525",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA- EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Catiane Zini Borela e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a5c680a7feaa24e6511a"
+    },
+    {
+      "processo": "909871973",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "TAIMAK COMERCIO DE MAQUINAS EMPACOTADORAS LTDA- EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Catiane Zini Borela e nomeado novo representante Luiz Fernando Soares Costa com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2908",
+        "data": "2026-09-29"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2908.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2908.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "cb00775ffbe6e0e0f20b"
+    },
     {
       "processo": "938685023",
       "dataDeposito": "",
@@ -9056,10 +9702,10 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-09-22T23:31:24+00:00",
+    "startedAt": "2026-09-30T00:06:38+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 8,
-    "pendingNotifications": 3,
+    "newMatchesThisRun": 11,
+    "pendingNotifications": 6,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
     ],
