@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-09-30T00:06:38+00:00",
+  "generatedAt": "2026-10-14T00:11:02+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 170,
-    "totalRevistas": 19,
-    "totalProcesses": 143,
+    "totalMatches": 181,
+    "totalRevistas": 20,
+    "totalProcesses": 150,
     "latestRevista": {
-      "numero": "2908",
-      "data": "2026-09-29"
+      "numero": "2910",
+      "data": "2026-10-13"
     }
   },
   "revistas": [
+    {
+      "numero": "2910",
+      "data": "2026-10-13",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2910.zip",
+      "status": "lida",
+      "matchCount": 11
+    },
     {
       "numero": "2908",
       "data": "2026-09-29",
@@ -170,6 +178,631 @@
     }
   ],
   "matches": [
+    {
+      "processo": "945303181",
+      "dataDeposito": "23/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "Figurativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VIVIANE BOLZAN BORGHETTI ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "03",
+          "status": "Pendente",
+          "especificacao": "Cosméticos;Cremes cosméticos;Óleos essenciais para fins cosméticos;Preparações cosméticas para banhos;Preparações para banho de espuma, exceto para uso medicinal;Preparações para banho de imersão de uso pessoal, exceto para uso medicinal;Preparações para banho, exceto para fins medicinais;Sabões*;Sabonetes;Sais de banho, exceto para uso medicinal;"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "5e2b9b02df85efd887fa"
+    },
+    {
+      "processo": "945302843",
+      "dataDeposito": "23/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "Kyra By Viviane Borghetti",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VIVIANE BOLZAN BORGHETTI ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Pendente",
+          "especificacao": "Aromaterapia;Grupos de autoajuda [terapia em grupo];Psicoterapia;Serviços de terapia;"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8d34a83c152726c5d4ce"
+    },
+    {
+      "processo": "945302584",
+      "dataDeposito": "23/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "Kyra By Viviane Borghetti",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VIVIANE BOLZAN BORGHETTI ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Comércio [através de qualquer meio] de preparações de higiene pessoal não medicamentosas;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Provimento de informações de negócios através de um website;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Serviços de agências de importação-exportação;"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "eed0dff1104dbd6bc7ce"
+    },
+    {
+      "processo": "945302495",
+      "dataDeposito": "23/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "Kyra By Viviane Borghetti",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "VIVIANE BOLZAN BORGHETTI ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "03",
+          "status": "Pendente",
+          "especificacao": "Preparações para banho de espuma, exceto para uso medicinal;Preparações para banho de imersão de uso pessoal, exceto para uso medicinal;Preparações para banho, exceto para fins medicinais;Sabões*;Sabonetes;Sais de banho, exceto para uso medicinal;"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "c74ce06e306904a5b3c8"
+    },
+    {
+      "processo": "943828945",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS423",
+          "nome": "Notificação de oposição",
+          "texto": "850260451261 de 01/09/2026"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "741f3a36f3ca68730f1f"
+    },
+    {
+      "processo": "943828716",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS423",
+          "nome": "Notificação de oposição",
+          "texto": "850260451257 de 01/09/2026"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "2b97e060e26fd209bba4"
+    },
+    {
+      "processo": "938649809",
+      "dataDeposito": "04/04/2025",
+      "dataConcessao": "13/10/2026",
+      "dataVigencia": "13/10/2036",
+      "marca": {
+        "nome": "CHURRASCADA DE NEGÓCIOS",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Organização de feiras de negócios;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Representação comercial;Serviços de agê…"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e7c9aa29359482e83ef9"
+    },
+    {
+      "processo": "938649485",
+      "dataDeposito": "04/04/2025",
+      "dataConcessao": "13/10/2026",
+      "dataVigencia": "13/10/2036",
+      "marca": {
+        "nome": "GAGRO CONSULTORIA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BRUNO RAFAEL CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Excluída",
+          "especificacao": "Assessoria e consultoria Agronômica; Gestão e planejamento das atividades agrícolas; Gestão de propriedades e inovação tecnológica.;"
+        },
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de instrumentos agrícolas não manuais;Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura;Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de…"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "26f11596a10678f02e88"
+    },
+    {
+      "processo": "938649043",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "BRUNO RAFAEL CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        },
+        {
+          "nome": "DIONATAN PAULO CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Atualizado o elemento nominativo do pedido em função da imagem apresentada, de \"GAGRO CONSULTORIA\" para \"G Agro CONSULTORIA\"."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Aluguel de equipamentos agrícolas;Aspersão, aérea ou de superfície, de fertilizantes e outras substâncias químicas agrícolas;Assessoria, consultoria e informação na área agrícola;Colheita [serviços de agricultura];Extermínio de animais nocivos para agricultura, aquacultura, horticultura e silvicultura.;Serviços de controle de pragas para agricultura, aquicultura, horticultura e silvicultura;Tratamento fitossanitário [controle de pragas agrícolas];Fazenda; Serviços de agricultura Assessoria consultoria e informação na área agrícola - [Informação em]; Assessoria consultoria e informação na área agrícola - [Consultoria em]; Assessoria consultoria e informação na área agrícola - [Assessoria em]…"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "fd440b9a9a9bbc3d61b5"
+    },
+    {
+      "processo": "938648527",
+      "dataDeposito": "04/04/2025",
+      "dataConcessao": "13/10/2026",
+      "dataVigencia": "13/10/2036",
+      "marca": {
+        "nome": "CHURRASCADA DE NEGÓCIOS",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MENEGAZZO E MENEGAZZO AGRICOLA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Organização e realização de eventos de entretenimento;[treinamento]; Organização de espetáculos, como congressos e feiras, Atividades de educação e treinamento, como escolas, cursos, seminários e workshops, Eventos esportivos e culturais, como conferências, exposições e festivais. Promoção de eventos de negócios.;"
+        },
+        {
+          "codigo": "41",
+          "status": "Excluída",
+          "especificacao": "provimento de informações sobre agricultura [instrução], visando maior produtividade da lavoura.;"
+        }
+      ],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "be0982e0cbad39fb6c34"
+    },
+    {
+      "processo": "936113723",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "PAULINO E MARCON COMERCIO E REPRESENTAÇÕES DE MICRONUTRIENTES LTDA",
+          "pais": "BR",
+          "uf": "MS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "RECURSO CONTRA O INDEFERIMENTO DO PEDIDO DE REGISTRO. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2910",
+        "data": "2026-10-13"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2910.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2910.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "11b93ff29207beae8a85"
+    },
     {
       "processo": "945178727",
       "dataDeposito": "11/09/2026",
@@ -9702,7 +10335,7 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-09-30T00:06:38+00:00",
+    "startedAt": "2026-10-14T00:11:02+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 11,
     "pendingNotifications": 6,
