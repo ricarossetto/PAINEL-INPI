@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-10-20T23:40:18+00:00",
+  "generatedAt": "2026-10-28T00:17:42+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 187,
-    "totalRevistas": 21,
-    "totalProcesses": 156,
+    "totalMatches": 193,
+    "totalRevistas": 22,
+    "totalProcesses": 162,
     "latestRevista": {
-      "numero": "2911",
-      "data": "2026-10-20"
+      "numero": "2912",
+      "data": "2026-10-27"
     }
   },
   "revistas": [
+    {
+      "numero": "2912",
+      "data": "2026-10-27",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2912.zip",
+      "status": "lida",
+      "matchCount": 6
+    },
     {
       "numero": "2911",
       "data": "2026-10-20",
@@ -186,6 +194,349 @@
     }
   ],
   "matches": [
+    {
+      "processo": "945203144",
+      "dataDeposito": "14/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "FORTIGER Nutrição Animal",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BURMANN BIOMINERAIS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "05",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Suplemento alimentar para ração de animal;Suplementos alimentares minerais;Suplementos alimentares para animais;Suplementos de proteína para animais;Suplementos nutricionais;Suplemento mineral para animais, aditivo mineral para suplementação de animais;"
+        }
+      ],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "505e6c2d858905fb3e5c"
+    },
+    {
+      "processo": "945203080",
+      "dataDeposito": "14/09/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "FORTIGER Nutrição Animal",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BURMANN BIOMINERAIS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Pendente",
+          "especificacao": "Alimento para animais confinados;Alimento para gado;Alimentos para animais;Bloco de sal para animais;Cal para forragem animal;Farinha para animais;Preparações para engorda de animais;Preparações para engorda de animais de criação;Ração para animal;Sal para gado;"
+        }
+      ],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3817a3df45c9fd2cde8f"
+    },
+    {
+      "processo": "939073218",
+      "dataDeposito": "09/05/2025",
+      "dataConcessao": "27/10/2026",
+      "dataVigencia": "27/10/2036",
+      "marca": {
+        "nome": "MT TOOLS",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "MT TOOLS COMERCIO DE FERRAMENTAS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "06",
+          "status": "Excluída",
+          "especificacao": "ferramentas para usinagem;"
+        },
+        {
+          "codigo": "06",
+          "status": "Deferida",
+          "especificacao": "Abraçadeira de fixação [ferragem];Abraçadeiras de metal;Abraçadeiras de metal para cabos ou tubos;Abraçadeiras para fios, em metal;Aço;Aço de cadinho;Aço doce [ferro doce];Aço estirado;Aço fundido;Aço galvanizado;Aço laminado;Aço não plano;Aço para cimentação;Aço para trilho;Aço plano;Aço rápido;Aço soldado;Aço, bruto ou semitrabalhado;Agulhas para estradas de ferro;Agulhas para linhas férreas;Aldrava de metal para portas;Algemas;Algeroz metálico;Alojamento de metal para animal;Alpaca [liga metálica];Alumínio;Amortecedor para porta [ferragem];Âncoras *;Andaimes de metal;Anéis de cobre;Anéis de metal *;Anéis de parada de metal;Anel de escora em metal;Anel metálico [ferragem];Anilha metálica…"
+        }
+      ],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e77dea2d8e313ff48a60"
+    },
+    {
+      "processo": "937897370",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FLORALPHARMA LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS360",
+          "nome": "Notificação de recurso",
+          "texto": "Recurso contra o indeferimento Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "df222d297a97fa967ec7"
+    },
+    {
+      "processo": "935491716",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "DAPPER PET STORE LTDA",
+          "pais": "BR",
+          "uf": "SC"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa",
+        "KALASHI MARCAS E PATENTES LTDA EPP"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS400",
+          "nome": "Notificação de instauração de processo de nulidade a requerimento",
+          "texto": "Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "6dcf2ceebf14158cb770"
+    },
+    {
+      "processo": "931289050",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "RITTER TRUCK COMERCIO DE PEÇAS E SERVIÇOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": "Alterada a especificação com a exclusão de ?e materiais de aço? por se tratar de item genérico para fins de classificação, em atenção ao disposto no Manual de Marcas, item 5.4.1. A alteração não enseja republicação, tal qual orienta o Manual de Marcas, item 5.19.6."
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Representação comercial;Serviços de agências de importação-exportação;Comércio através de qualquer meio de molas. Comércio através de qualquer meio de peças para caminhões;"
+        },
+        {
+          "codigo": "35",
+          "status": "Excluída",
+          "especificacao": "e materiais de aço;"
+        }
+      ],
+      "revista": {
+        "numero": "2912",
+        "data": "2026-10-27"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2912.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2912.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "812178ca1de338a2238b"
+    },
     {
       "processo": "939268450",
       "dataDeposito": "",
@@ -10670,7 +11021,7 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-10-20T23:40:18+00:00",
+    "startedAt": "2026-10-28T00:17:42+00:00",
     "scannedRevistas": 1,
     "newMatchesThisRun": 6,
     "pendingNotifications": 6,
