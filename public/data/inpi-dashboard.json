@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-11-04T01:05:42+00:00",
+  "generatedAt": "2026-11-11T01:05:38+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 206,
-    "totalRevistas": 23,
-    "totalProcesses": 174,
+    "totalMatches": 211,
+    "totalRevistas": 24,
+    "totalProcesses": 176,
     "latestRevista": {
-      "numero": "2913",
-      "data": "2026-11-03"
+      "numero": "2914",
+      "data": "2026-11-10"
     }
   },
   "revistas": [
+    {
+      "numero": "2914",
+      "data": "2026-11-10",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2914.zip",
+      "status": "lida",
+      "matchCount": 5
+    },
     {
       "numero": "2913",
       "data": "2026-11-03",
@@ -202,6 +210,296 @@
     }
   ],
   "matches": [
+    {
+      "processo": "939375214",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ELISIANE INES BAZANA RIBEIRO ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 922229856 (Fabulosa! Cosméticos) e Processo 907388094 (FABULOSA). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em conexão com comércio realizado pela internet;Comércio [através de qualquer meio] de artigos do vestuário;Gestão de franquia;Representação comercial;"
+        }
+      ],
+      "revista": {
+        "numero": "2914",
+        "data": "2026-11-10"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2914.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1a0968969c9e989f66d0"
+    },
+    {
+      "processo": "939268450",
+      "dataDeposito": "23/05/2025",
+      "dataConcessao": "10/11/2026",
+      "dataVigencia": "10/11/2036",
+      "marca": {
+        "nome": "CALGARY VIAGENS E TURISMO",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "60.679.281 VANESSA WIERSBITSKI KRYSZCZUN",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "39",
+          "status": "Deferida",
+          "especificacao": "Assessoria, consultoria e informação em viagem e turismo;Guia de turismo;Organização de cruzeiros [viagens];Preparação de vistos e documentos de viagem para viagens internacionais;Reservas para viagens;Serviços de transporte para visitas turísticas;Transporte;Transporte de passageiros;AGÊNCIA DE VIAGENS E TURISMO;"
+        }
+      ],
+      "revista": {
+        "numero": "2914",
+        "data": "2026-11-10"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2914.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "24e4e95f5e8c87c75297"
+    },
+    {
+      "processo": "935581375",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "PATRICIA FUHRMANN OLING",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 933390114 (IJAHI). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "31",
+          "status": "Deferida",
+          "especificacao": "Ervas frescas;Ervas para consumo humano ou animal;Erva Mate;"
+        }
+      ],
+      "revista": {
+        "numero": "2914",
+        "data": "2026-11-10"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2914.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3c9b6d20db78110eaf3c"
+    },
+    {
+      "processo": "931327830",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "CLAUDIR KOREN",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 919974333 (CORINGÃO), Processo 830468129 (RÁDIO CORINGÃO) e Processo 820512214 (S.C CORINTHIANS PAULISTA 1910 CORINGÃO). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Deferida",
+          "especificacao": "Apresentação de espetáculos ao vivo; Espetáculos ao vivo (Apresentação de -); Organização de espetáculos [shows]; Produção de shows; Produção musical; Banda de música [serviços de entretenimento]; Gravações musicais em VHS/DVD/CD (serviços de estúdio); Grupo musical;"
+        }
+      ],
+      "revista": {
+        "numero": "2914",
+        "data": "2026-11-10"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2914.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "336d151b2708737d805e"
+    },
+    {
+      "processo": "931289050",
+      "dataDeposito": "26/07/2023",
+      "dataConcessao": "10/11/2026",
+      "dataVigencia": "10/11/2036",
+      "marca": {
+        "nome": "TORKER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "RITTER TRUCK COMERCIO DE PEÇAS E SERVIÇOS LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições ? administração de negócios];Gestão de franquia;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Representação comercial;Serviços de agências de importação-exportação;Comércio através de qualquer meio de molas. Comércio através de qualquer meio de peças para caminhões;"
+        },
+        {
+          "codigo": "35",
+          "status": "Excluída",
+          "especificacao": "e materiais de aço;"
+        }
+      ],
+      "revista": {
+        "numero": "2914",
+        "data": "2026-11-10"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2914.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2914.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "b37b159a9bad97c86097"
+    },
     {
       "processo": "945563450",
       "dataDeposito": "15/10/2026",
@@ -11759,9 +12057,9 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-11-04T01:05:42+00:00",
+    "startedAt": "2026-11-11T01:05:38+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 13,
+    "newMatchesThisRun": 5,
     "pendingNotifications": 6,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
