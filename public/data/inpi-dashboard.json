@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-11-11T01:05:38+00:00",
+  "generatedAt": "2026-11-18T02:46:02+00:00",
   "source": {
     "rpiUrl": "https://revistas.inpi.gov.br/rpi/",
     "section": "Secao V - Marcas"
   },
   "statistics": {
-    "totalMatches": 211,
-    "totalRevistas": 24,
-    "totalProcesses": 176,
+    "totalMatches": 228,
+    "totalRevistas": 25,
+    "totalProcesses": 188,
     "latestRevista": {
-      "numero": "2914",
-      "data": "2026-11-10"
+      "numero": "2915",
+      "data": "2026-11-17"
     }
   },
   "revistas": [
+    {
+      "numero": "2915",
+      "data": "2026-11-17",
+      "pdfUrl": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+      "xmlUrl": "https://revistas.inpi.gov.br/txt/RM2915.zip",
+      "status": "lida",
+      "matchCount": 17
+    },
     {
       "numero": "2914",
       "data": "2026-11-10",
@@ -210,6 +218,969 @@
     }
   ],
   "matches": [
+    {
+      "processo": "945665857",
+      "dataDeposito": "23/10/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "LANDSCANNER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LEIDENS ADMINISTRATIVO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Pendente",
+          "especificacao": "Assessoria e consultoria em gestão organizacional para terceiros para fins de \"compliance\";Assessoria, consultoria e informação econômica, para os setores industrial e comercial das empresas, visando o planejamento, organização, monitoramento e desenvolvimento de projetos [também provido on-line] [assessoria em gestão comercial];Assessoria, consultoria e informação em negócios relativos à relocalização para empresas;Assessoria, consultoria e informação empresarial;Assessoria, consultoria e informação relacionadas ao planejamento, análise, gestão e organização de negócios para empresas;Gestão administrativa terceirizada para empresas;Gestão de custos de projetos de construção;Organização e a…"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "f6c9a402e8ad7c039f51"
+    },
+    {
+      "processo": "945665580",
+      "dataDeposito": "23/10/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "LANDSCANNER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LEIDENS ADMINISTRATIVO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "42",
+          "status": "Pendente",
+          "especificacao": "Assessoria, consultoria e informações sobre arquitetura;Assessoria, consultoria e informações sobre engenharia;Desenvolvimento de softwares e componentes de softwares para terceiros para uso em ambiente virtual;Engenharia*;Realização de estudos para projetos técnicos;Serviços de arquitetura*;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "9a8e1515ec84a547886c"
+    },
+    {
+      "processo": "945664958",
+      "dataDeposito": "23/10/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "LANDSCANNER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LEIDENS ADMINISTRATIVO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente",
+          "especificacao": "Administração de condomínio;Administração de imóveis;Administração financeira;Administração predial;Assessoria, consultoria e informação em avaliação imobiliária;Comércio de imóveis;Compra e venda de imóveis;Serviços de agências imobiliárias;Serviços de agências imobiliárias de locação de apartamentos;Serviços de cobrança de aluguel;Serviços imobiliários;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "e15b05df65fa81678f33"
+    },
+    {
+      "processo": "945664567",
+      "dataDeposito": "23/10/2026",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "LANDSCANNER",
+        "apresentacao": "Nominativa",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "LEIDENS ADMINISTRATIVO LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS009",
+          "nome": "Publicação de pedido de registro para oposição (exame formal concluído)",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "09",
+          "status": "Pendente",
+          "especificacao": "Aplicativo baixável para ambientes virtuais;Aplicativos, baixáveis;Arquivos de imagem baixáveis;Assistentes pessoais digitais [pda];Softwares de computador, gravados;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "eb779b536f6fd28168b1"
+    },
+    {
+      "processo": "942400275",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "VINICIUS JOEL SCHERER ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "Fica ainda consignada, a título de subsídio a eventual recurso, a identificação das seguintes anterioridades, ainda não decididas, consideradas igualmente colidentes com o presente sinal: 93898832 (MAGNÓLIA) e 932017592 (MAGNOLIA HOME). A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 829052488 (MAGNÓLIA). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "35",
+          "status": "Deferida",
+          "especificacao": "Comércio [através de qualquer meio] de óleos essenciais;Comércio [através de qualquer meio] de velas;Comércio [através de qualquer meio] de velas e pavios para iluminação;Gestão de franquia para terceiros;Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais];Marketing por meio da colocação de produtos para terceiros em ambientes virtuais;Provimento de informações de negócios através de um website;Provimento de mercado on-line para compradores e vendedores de produtos e serviços [marketplace];Serviços de agências de importação-exportação;Venda e licenciamento de franchising [tratando-se de administração de negócios em franchising];"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8a7e3e13c54846656612"
+    },
+    {
+      "processo": "942399030",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "VINICIUS JOEL SCHERER ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 829052488 (MAGNÓLIA). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "03",
+          "status": "Deferida",
+          "especificacao": "Água de cheiro para perfumar;Essências para perfumar;Óleos essenciais para perfumar;Óleos para perfumar;Óleos voláteis para perfumar;Preparações para perfumar ambientes;Sachês para perfumar roupa;Sprays de resfriamento para fins cosméticos;Velas de massagem para fins cosméticos;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "c4bb4053c8023d144410"
+    },
+    {
+      "processo": "939952343",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "L4 CONSTRUTORA E INCORPORADORA LTDA - EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Construção *; Construção e reparação de obra civil;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "08753a6676a0df96aa63"
+    },
+    {
+      "processo": "939952270",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "L4 CONSTRUTORA E INCORPORADORA LTDA - EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Administração de imóveis; Aluguel de apartamentos; Incorporação de imóvel;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "8b54484d0275ae353e3a"
+    },
+    {
+      "processo": "939951991",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "L4 CONSTRUTORA E INCORPORADORA LTDA - EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Construção *; Construção e reparação de obra civil;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1e5af4d1f38e1a04cc08"
+    },
+    {
+      "processo": "939951916",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "L4 CONSTRUTORA E INCORPORADORA LTDA - EPP",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Administração de imóveis; Aluguel de apartamentos; Incorporação de imóvel;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4d547812121f83cf3674"
+    },
+    {
+      "processo": "939602563",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "LZ ADMINSITRAÇÃO DE CONDOMÍNIOS S/S LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS024",
+          "nome": "Indeferimento do pedido",
+          "texto": "A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo 924333960 (LZ EMPREENDIMENTOS). Art. 124 - Não são registráveis como marca: XIX - reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia;"
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "36",
+          "status": "Deferida",
+          "especificacao": "Administração de condomínio;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "3839f477e90d64653d99"
+    },
+    {
+      "processo": "939580080",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "ELISANGELA MUNER ME",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS029",
+          "nome": "Deferimento do pedido",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "41",
+          "status": "Pendente (com especificação livre)",
+          "especificacao": "Organização e realização de eventos de entretenimento;Organização e realização de eventos esportivos;Planejamento de festas;Promotor de eventos [se artísticos/culturais];Organização de feiras e eventos empresariais. Aluguel de estruturas para feiras e eventos.;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "61d2eefddd3cda5dea2d"
+    },
+    {
+      "processo": "939450402",
+      "dataDeposito": "05/06/2025",
+      "dataConcessao": "17/11/2026",
+      "dataVigencia": "17/11/2036",
+      "marca": {
+        "nome": "GRINGS CAFÉ",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "EDUARDO PASCOTINI GRINGS",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "43",
+          "status": "Deferida",
+          "especificacao": "Cyber café [fornecimento de comida e bebida];Fornecimento de cestas de café da manhã [serviços de alimentação];Serviços de bar;Serviços de cafés [bares];Serviços de cafeteria;Serviços de lanchonetes;Serviços de restaurantes;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "105950014f16feaa1e8a"
+    },
+    {
+      "processo": "939450330",
+      "dataDeposito": "05/06/2025",
+      "dataConcessao": "17/11/2026",
+      "dataVigencia": "17/11/2036",
+      "marca": {
+        "nome": "GRINGS CAFÉ",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "EDUARDO PASCOTINI GRINGS",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "37",
+          "status": "Deferida",
+          "especificacao": "IInstalação, manutenção e reparo de máquinas; Instalação e reparo de aparelhos elétricos;"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1c40dc43b17da0e40e35"
+    },
+    {
+      "processo": "938649043",
+      "dataDeposito": "04/04/2025",
+      "dataConcessao": "17/11/2026",
+      "dataVigencia": "17/11/2036",
+      "marca": {
+        "nome": "G Agro CONSULTORIA",
+        "apresentacao": "Mista",
+        "natureza": "Produtos e/ou Serviço"
+      },
+      "requerentes": [
+        {
+          "nome": "BRUNO RAFAEL CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        },
+        {
+          "nome": "DIONATAN PAULO CASARIN GAI",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS158",
+          "nome": "Concessão de registro",
+          "texto": ""
+        }
+      ],
+      "classes": [
+        {
+          "codigo": "44",
+          "status": "Deferida",
+          "especificacao": "Aluguel de equipamentos agrícolas;Aspersão, aérea ou de superfície, de fertilizantes e outras substâncias químicas agrícolas;Assessoria, consultoria e informação na área agrícola;Colheita [serviços de agricultura];Extermínio de animais nocivos para agricultura, aquacultura, horticultura e silvicultura.;Serviços de controle de pragas para agricultura, aquicultura, horticultura e silvicultura;Tratamento fitossanitário [controle de pragas agrícolas];Fazenda; Serviços de agricultura Assessoria consultoria e informação na área agrícola - [Informação em]; Assessoria consultoria e informação na área agrícola - [Consultoria em]; Assessoria consultoria e informação na área agrícola - [Assessoria em]…"
+        }
+      ],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "4906f7b33d5bf2798bbc"
+    },
+    {
+      "processo": "934414076",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "SPLENDIDA HORA PAES E DOCES LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS270",
+          "nome": "Deferimento da petição",
+          "texto": "Destituído o procurador Mara Regina Nikitenko Jagmin e nomeado novo representante FORTEN REGISTRO DE MARCAS LTDA com poderes para representar o titular do processo perante o INPI. Luiz Fernando Soares Costa"
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "despacho",
+            "procurador"
+          ]
+        }
+      ],
+      "id": "a5b00fe456dc862118d1"
+    },
+    {
+      "processo": "817491180",
+      "dataDeposito": "",
+      "dataConcessao": "",
+      "dataVigencia": "",
+      "marca": {
+        "nome": "",
+        "apresentacao": "",
+        "natureza": ""
+      },
+      "requerentes": [
+        {
+          "nome": "FOCKINK PARTICIPAÇÕES LTDA",
+          "pais": "BR",
+          "uf": "RS"
+        }
+      ],
+      "procuradores": [
+        "Luiz Fernando Soares Costa"
+      ],
+      "despachos": [
+        {
+          "codigo": "IPAS161",
+          "nome": "Extinção de registro pela expiração do prazo de vigência",
+          "texto": ""
+        }
+      ],
+      "classes": [],
+      "revista": {
+        "numero": "2915",
+        "data": "2026-11-17"
+      },
+      "links": {
+        "pdf": "https://revistas.inpi.gov.br/pdf/Marcas2915.pdf",
+        "xml": "https://revistas.inpi.gov.br/txt/RM2915.zip"
+      },
+      "monitores": [
+        {
+          "id": "adv-luiz-fernando-soares-costa",
+          "label": "Luiz Fernando Soares Costa",
+          "type": "advogado",
+          "matchedTerms": [
+            "Luiz Fernando Soares Costa"
+          ],
+          "fields": [
+            "procurador"
+          ]
+        }
+      ],
+      "id": "1149f808622a88f31550"
+    },
     {
       "processo": "939375214",
       "dataDeposito": "",
@@ -12057,9 +13028,9 @@
     }
   ],
   "lastRun": {
-    "startedAt": "2026-11-11T01:05:38+00:00",
+    "startedAt": "2026-11-18T02:46:02+00:00",
     "scannedRevistas": 1,
-    "newMatchesThisRun": 5,
+    "newMatchesThisRun": 17,
     "pendingNotifications": 6,
     "notificationMonitorIds": [
       "adv-ricardo-de-luca-rossetto"
